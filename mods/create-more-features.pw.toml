@@ -1,0 +1,13 @@
+filename = 'create_more_features-0.8.0-forge-1.20.1.jar'
+name = 'Create: More Features'
+side = 'both'
+
+[download]
+hash = 'bcccb1909eb85161deb2799553138b776b403343'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6272148
+project-id = 1091960

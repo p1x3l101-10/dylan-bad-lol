@@ -1,0 +1,13 @@
+filename = 'createteleporters2.3-1.20.1.jar'
+name = 'Create : Teleporters'
+side = 'both'
+
+[download]
+hash = '1ccd6755dea952add65abc22e9ad5d058613ed08'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6173176
+project-id = 829272

@@ -1,0 +1,13 @@
+filename = 'create_wt-forge-1.20.1-1.0.7.jar'
+name = 'Create Weaponry'
+side = 'both'
+
+[download]
+hash = '74a666ed55d73dbe3e87e03c9a267a976d645397'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5441581
+project-id = 867626

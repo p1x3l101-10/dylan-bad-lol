@@ -1,0 +1,13 @@
+filename = 'createloveandwar-0.4.1-1.20.1-Create-6.0.0.jar'
+name = 'Create: Love & War'
+side = 'both'
+
+[download]
+hash = '61efa35bd58361203c5d0b39ed2be05ee5eaccc4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6264566
+project-id = 969517

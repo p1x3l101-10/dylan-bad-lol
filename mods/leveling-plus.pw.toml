@@ -1,0 +1,13 @@
+filename = 'levelingplus-2.5-forge-1.20.1.jar'
+name = 'Leveling Plus'
+side = 'both'
+
+[download]
+hash = 'd868decec82d163f2fb023152bcef177d34615bd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6504123
+project-id = 985199

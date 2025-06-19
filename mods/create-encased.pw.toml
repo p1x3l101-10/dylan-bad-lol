@@ -1,0 +1,13 @@
+filename = 'Create Encased-1.20.1-1.7.1-fix2.jar'
+name = 'Create Encased'
+side = 'both'
+
+[download]
+hash = 'c0d7324386fefaf433cf415608937010f6eb5e1c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6387192
+project-id = 829380

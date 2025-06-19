@@ -1,0 +1,13 @@
+filename = 'create_winery-1.6.0-forge-1.20.1.jar'
+name = 'Create: Winery [Forge/NeoForge]'
+side = 'both'
+
+[download]
+hash = '1f7afc4abc1c3025072cadddbc2bf44891b56a8d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6421170
+project-id = 1161283

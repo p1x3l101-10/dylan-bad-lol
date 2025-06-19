@@ -1,0 +1,13 @@
+filename = 'Renforced_Brass_Armor_1.20.1.jar'
+name = 'Create: Upgraded Armor'
+side = 'both'
+
+[download]
+hash = 'b29041869cea50fa33d3cd6c057d1f4315b52304'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4781886
+project-id = 919412

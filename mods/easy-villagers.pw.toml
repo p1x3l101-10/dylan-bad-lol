@@ -1,0 +1,13 @@
+filename = 'easy-villagers-forge-1.20.1-1.1.29.jar'
+name = 'Easy Villagers'
+side = 'both'
+
+[download]
+hash = '511ba1edc5963965dd3bfbfd907c5f7682393397'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6620401
+project-id = 400514

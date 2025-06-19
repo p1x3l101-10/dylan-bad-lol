@@ -1,0 +1,13 @@
+filename = 'jousting-1.20.1-v1.0.9.jar'
+name = 'Jousting'
+side = 'both'
+
+[download]
+hash = 'a1d3ddd3cb90c85f4cb4f95581827c4892168983'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4742857
+project-id = 435139
