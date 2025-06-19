@@ -51,16 +51,15 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
+  "compactmachines": {
+    "machine": true,
+    "tunnel": true
+  },
   "create_mechanical_chicken": {
     "data": true
   },
-  "easy_villagers": {
-    "villager": true,
-    "converter": true,
-    "breeder": true
-  },
-  "autoleveling": {
-    "level": true
+  "immersiveengineering": {
+    "multiblock_icon": true
   },
   "createsifter": {
     "sifter_data": true
@@ -76,8 +75,10 @@
   "create_mob_spawners": {
     "spawner_progress": true
   },
-  "waystones": {
-    "waystone": true
+  "apotheosis": {
+    "adventure": true,
+    "ench": true,
+    "spawner": true
   },
   "balm": {
     "jade": true
@@ -93,5 +94,24 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "ars_nouveau": {
+    "mob_jar": true
+  },
+  "easy_villagers": {
+    "villager": true,
+    "converter": true,
+    "breeder": true
+  },
+  "autoleveling": {
+    "level": true
+  },
+  "waystones": {
+    "waystone": true
+  },
+  "mysticalagriculture": {
+    "infused_farmland": true,
+    "crop": true,
+    "inferium_crop": true
   }
 }
