@@ -1324,7 +1324,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "f4abd39eb3bcd856d7e9c7e92c3eae72254ddadbc6266390dfea382bdf78a129"
+hash = "a86ce796ebf9141ed1bd0bff0446f3f06a63f588245bb3d206364968ba1f83a6"
 metafile = true
 
 [[files]]
@@ -1733,6 +1733,11 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
+file = "mods/default-options.pw.toml"
+hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-village.pw.toml"
 hash = "2cc6471239ccfb881c849713a7c4638f0e153f0c3cfbda24f378cd87ad20fde3"
 metafile = true
@@ -1755,6 +1760,11 @@ metafile = true
 [[files]]
 file = "mods/eccentric-tome.pw.toml"
 hash = "2e5cf666dac091c3a687d3b0e38954bbf80408a7f7bfadc68b4159cde91b0291"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
