@@ -735,11 +735,6 @@ hash = "4ddbd26badbb43db57eb949489c7595afc20f350b1a1f35c2385034c5427c0a8"
 metafile = true
 
 [[files]]
-file = "mods/crash-assistant.pw.toml"
-hash = "658f5f64cbb863b39479f663e08a065081e7e0430649a61f7ae81d807bc70ce8"
-metafile = true
-
-[[files]]
 file = "mods/create-applied-kinetics.pw.toml"
 hash = "9a1a08a7ece5eeb06cc4f6d74a8a58188e31bc0c52213d830e2d873c02794684"
 metafile = true
