@@ -585,6 +585,11 @@ file = "config/waystones-common.toml"
 hash = "aa80ba5e3a9c9dc58501f9ee285849e7dde26ed095e998e8d34148080c07c804"
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "570c6ce9a6d24026661f0766ff155de5d588fca1d25a4d1c9906e78d1d325e90"
+metafile = true
+
+[[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "11e2af61cab569fc2600b5c03fa82158d51969ff283f37167275580e1672fc54"
 metafile = true
@@ -630,13 +635,28 @@ hash = "d9c13d7c57b1dc04cf9debddfcb7f718a816969a176c4492828b65523cdea035"
 metafile = true
 
 [[files]]
-file = "mods/applied-energistics-2.pw.toml"
-hash = "1c9033a9382a6339850334038c59bd3410f4c6c8f1de31db42c1ca138dae35c1"
+file = "mods/architectury-api.pw.toml"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+file = "mods/ars-additions.pw.toml"
+hash = "4bf55aa51f09c03d194781a280d0676394c897a4334f0ae3eab358e0851e39d9"
+metafile = true
+
+[[files]]
+file = "mods/ars-artifice.pw.toml"
+hash = "14c5ad8a417c1f54f7f3e13578b57520250b3c6bd4113eb015874ed27b2ed636"
+metafile = true
+
+[[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "7ce1bd971a8571077ffc4d7625e411c2a35a8d02791392a0efef8270c18359e3"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
 metafile = true
 
 [[files]]
@@ -1085,6 +1105,11 @@ hash = "e377f417a08cf3d2aa703e3b0cae37f78cdaafa4dc2342f5074b7b4b608f53c2"
 metafile = true
 
 [[files]]
+file = "mods/eccentric-tome.pw.toml"
+hash = "2e5cf666dac091c3a687d3b0e38954bbf80408a7f7bfadc68b4159cde91b0291"
+metafile = true
+
+[[files]]
 file = "mods/emi-enchanting.pw.toml"
 hash = "7bb5e183e5d8401bada1c21eb84964c19a1c0e41362ee9f4d04b6a998586b811"
 metafile = true
@@ -1107,6 +1132,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "215565aa79bd35949265fe1f914c6c5d5164af1f9644d8d8ac70d78fc8f001f4"
+metafile = true
+
+[[files]]
+file = "mods/enchanted-arsenal.pw.toml"
+hash = "c478ba740218e68222019013989751bd018b844b9352870d57d25679f7e7b73f"
 metafile = true
 
 [[files]]
@@ -1152,6 +1182,11 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "11bb43ea65afa9faafc04a464e66340b33e0ac04247b4e98453875fbdc9d3af8"
+metafile = true
+
+[[files]]
+file = "mods/hex-ars-linker.pw.toml"
+hash = "57551a7f79830aa356e3afd9596d01133ac2b70939a3b98e9ae5286f6c27585e"
 metafile = true
 
 [[files]]
@@ -1316,7 +1351,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "ca20498272fe4b49fa3906c94d0544f43baafb1d3771f2ac2852771b0a4f549b"
+hash = "55c6d0b8ee25fd6a37a964805de3d2eab3f20d73a88ba77a63b4a51fd985d9dd"
 metafile = true
 
 [[files]]
@@ -1371,7 +1406,7 @@ metafile = true
 
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
-hash = "617506d4491daf7aec9f2b865ff163c0b08c1478922246f101f4c999ab669af5"
+hash = "199087fa3afcccbe6f328ee16f58ab0785bcee13291ebc197f3245c440318e08"
 metafile = true
 
 [[files]]
