@@ -601,7 +601,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "2cc4a49bee02b3eb38aefd952531d6bcdbe13b11b488a1a606f2503f6110dd3f"
+hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
@@ -625,6 +625,11 @@ hash = "516784b5111c5bd864eeeb632c5dec7029931cef230b11cdb849ea2eb575c049"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "af939c80935ba51d456613436eec5e064dcbbe0b5603c28b41d0aa693a69be3a"
+metafile = true
+
+[[files]]
 file = "mods/botarium.pw.toml"
 hash = "a18794bb80ec4baa87148e3468db4737504afdb5dfd8b4fc503cd3e48097ad19"
 metafile = true
@@ -641,7 +646,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "cd202ca98a67b91417257759cc73fc800774b6ea2e4f8264e6e6eea0970d4a73"
+hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
@@ -1080,13 +1085,48 @@ hash = "ac2fe3f2e09bee406c8eded29081952f4ecad1c8ec12958ed550f6cf42f9057d"
 metafile = true
 
 [[files]]
+file = "mods/global-server-config.pw.toml"
+hash = "c4b391ce90073709174f6da82a0d22ac32d4ac53b4aa536309742c9d94d409d7"
+metafile = true
+
+[[files]]
 file = "mods/guideme.pw.toml"
 hash = "11bb43ea65afa9faafc04a464e66340b33e0ac04247b4e98453875fbdc9d3af8"
 metafile = true
 
 [[files]]
+file = "mods/hex-casting-additions.pw.toml"
+hash = "b6213d9131d08e95e25005b5bde636225de971ffcbd89cefe4fa5b988b9eaad4"
+metafile = true
+
+[[files]]
+file = "mods/hex-casting.pw.toml"
+hash = "59a167a2e05a518d25d1e6f1b4789bad66a47e7fa2909817c5ec433c7aa46661"
+metafile = true
+
+[[files]]
 file = "mods/hexcasting.pw.toml"
 hash = "e0d6f9134c76622e171cc2122dfc2981f8cc12a9087c8e2a4386df542ce48b40"
+metafile = true
+
+[[files]]
+file = "mods/hexdebug.pw.toml"
+hash = "324da80a3215bb8729330dadbe6f5ddc022b7d29411c29c803a027c0aff84e4f"
+metafile = true
+
+[[files]]
+file = "mods/hexflow.pw.toml"
+hash = "0fd08478b9ff27c24008c36c5df9995a6d12c9343c9c8e3060de9b7351509a48"
+metafile = true
+
+[[files]]
+file = "mods/hexmapping.pw.toml"
+hash = "1f80e2536b9421be7eb119df7825d481e2763189af64f6cc025a2a8282f2c385"
+metafile = true
+
+[[files]]
+file = "mods/hexparse.pw.toml"
+hash = "0dcc6ca04d4d908daed7d78c502074ab368439b227800b646c6c694b59c905fb"
 metafile = true
 
 [[files]]
@@ -1102,6 +1142,11 @@ metafile = true
 [[files]]
 file = "mods/interiors.pw.toml"
 hash = "8ec63f04a7deea2958344f3846a3a8fb4dfabd4dcc1babc1398d1bcb69dc0fc7"
+metafile = true
+
+[[files]]
+file = "mods/ioticblocks.pw.toml"
+hash = "fcc06536bbba1f535850aa6c53f53f36d8c7ee4f281998c8ce3e4f8a0e658400"
 metafile = true
 
 [[files]]
@@ -1131,7 +1176,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0d43b2fec327f2023a1736f2400517e37dbd05dc79f3fbccf12a71ee9bf99c85"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
@@ -1147,6 +1192,11 @@ metafile = true
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "e5e2a0ff7817506e7fb92a6199497e115f80edfa5a3565ef2116d66ef79aea53"
+metafile = true
+
+[[files]]
+file = "mods/moreiotas.pw.toml"
+hash = "887f7fc2abacfa12b1ee393c759b71d56c97b91a965c01f9d23c6115a45d5acf"
 metafile = true
 
 [[files]]
