@@ -498,35 +498,7 @@ hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
 
 [[files]]
 file = "config/bluemap/core.conf"
-hash = "5b30a358a9f862e15622a0ba7ad4c0384cf35f043e40902690b2931aa915308f"
-
-[[files]]
-file = "config/bluemap/maps/new_world.conf"
-hash = "6314833d9a35d987c5f8c044a435d78519520da9407d99b94fc099554989b5ac"
-
-[[files]]
-file = "config/bluemap/maps/new_world_ae2_spatial_storage.conf"
-hash = "727938a6f442e9eadc9c398d6c05e902dee86169cabd1f5e1d0b6772ea86fa94"
-
-[[files]]
-file = "config/bluemap/maps/new_world_compactmachines_compact_world.conf"
-hash = "2efea623d1e2280ee8ef4442ed594edeaa50ec043ee945c085d67a9ae0e193b9"
-
-[[files]]
-file = "config/bluemap/maps/new_world_createteleporters_pocket_dimension.conf"
-hash = "ba6a81ff327a185856a6ec37317f8f28ab7ae65c336b234b72367f1f2af837d0"
-
-[[files]]
-file = "config/bluemap/maps/new_world_mahoutsukai_reality_marble.conf"
-hash = "7200f2b897effb25deb1227dc61791e14c4e08735dee29120fe1f5e9515172f5"
-
-[[files]]
-file = "config/bluemap/maps/new_world_the_end.conf"
-hash = "1af58cc243f213b0b2ec809497fbdd9e9613ea6710011ff454c22ad5be20cc6f"
-
-[[files]]
-file = "config/bluemap/maps/new_world_the_nether.conf"
-hash = "69850d0eb8170aae2adc449dc6c6acc651784fb2d4779968241a70b40b105912"
+hash = "84398ca18cd77e1bdd60da22c18b8a09c869fdc230dbd82f8070f447f74a0ffa"
 
 [[files]]
 file = "config/bluemap/plugin.conf"
@@ -1318,6 +1290,11 @@ hash = "140fd6451cfdfaca30860b3720971e2e57ff6a30144b8172e57217631892d5b5"
 metafile = true
 
 [[files]]
+file = "mods/attributes.pw.toml"
+hash = "f5d265ad34588a9b5d9bbba6e5f1ff02c723d7e41da8dc56124c783d90962c39"
+metafile = true
+
+[[files]]
 file = "mods/attributizer.pw.toml"
 hash = "4127d964b5bc688b7a80ba254c1b9af6bdb2968a95824e52e0f9f4e361a8b47d"
 metafile = true
@@ -1355,6 +1332,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "ce7b86b25df0086f89e25d2f5797e807a221a2ee9824f1b29690ab8280b04f63"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "a613f5d2df911fea606968bbdb56eebfd05ac02ada846cf0d2e56e72345d9338"
 metafile = true
 
 [[files]]
@@ -2073,8 +2055,23 @@ hash = "6fd04e8f0c57908107a96764252cd6144e0d5364fb35a6c0f5b5cfdedb1609e6"
 metafile = true
 
 [[files]]
+file = "mods/skills.pw.toml"
+hash = "2cbe89fbb4bfd9219dc0a990a323bd6adde2610b102c6019191e218e1110585d"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "e5f00ce7af56dd324dacc159d1419dd12c70135ed97eca9d02ab5dd21196c29f"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-carrot-edition.pw.toml"
+hash = "08faa8239705d280e41d353888bf717906fe71b1d5b9278bac9f5cd87b07efb3"
+metafile = true
+
+[[files]]
+file = "mods/stronger-skill-tree-for-pufferfishs-skills.pw.toml"
+hash = "34ae04b2c3fabb577c1973e7c2ea4043a96c533069c5170960011ca9a38bb1d7"
 metafile = true
 
 [[files]]
