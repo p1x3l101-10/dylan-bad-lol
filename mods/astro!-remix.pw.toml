@@ -1,0 +1,13 @@
+name = "Astro! Remix"
+filename = "astro_remix-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R5mZ0twJ/versions/l99JiIWt/astro_remix-2.1.1.jar"
+hash-format = "sha512"
+hash = "67ce8b03f07e93a1e793b5b9339722326b9a533fb42fd4e1b1b1be583967c90f1159f4df275d7b024c1d2eac60817986e6cad7ed013233814480832c0e3440e1"
+
+[update]
+[update.modrinth]
+mod-id = "R5mZ0twJ"
+version = "l99JiIWt"

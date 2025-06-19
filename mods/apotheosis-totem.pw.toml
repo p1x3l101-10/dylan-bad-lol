@@ -1,0 +1,13 @@
+name = "Apotheosis Totem"
+filename = "amelet-0.0.9-1.20.1-47.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PfrWAbeb/versions/vSPLBKwW/amelet-0.0.9-1.20.1-47.4.0.jar"
+hash-format = "sha512"
+hash = "0bf73086b16921d6406164ddcbc8159cb7c6fbe91644f70c52b04d01c75676048f39dc33367424e6a0d962dc9d4c08b06a3b461b17f8e175ed0b40565d7ede9d"
+
+[update]
+[update.modrinth]
+mod-id = "PfrWAbeb"
+version = "vSPLBKwW"

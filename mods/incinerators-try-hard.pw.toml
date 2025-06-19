@@ -1,0 +1,13 @@
+name = "Cataclysm: Weapon Skill Config/ Incinerator's Try Hard"
+filename = "IncineratorsTryHard-1.20.1-1.0.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/1I6q6yPS/versions/DZLRvRCQ/IncineratorsTryHard-1.20.1-1.0.6.jar"
+hash-format = "sha512"
+hash = "bb24785fc1683e690706b2dcccf54deead957292516afe45b6e87759fa1bae941ea63d291d13527d12f2d0f770151d44613ef7922b3c52730da7c4b9e370d6bb"
+
+[update]
+[update.modrinth]
+mod-id = "1I6q6yPS"
+version = "DZLRvRCQ"

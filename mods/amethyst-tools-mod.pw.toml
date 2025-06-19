@@ -1,0 +1,13 @@
+name = "Amethyst Tools Mod"
+filename = "amethysttoolsmod-1.20.1-1.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/73yiM6Hk/versions/L7VTPMUx/amethysttoolsmod-1.20.1-1.7.0.jar"
+hash-format = "sha512"
+hash = "7075c1210848bd802bf867c2c27f68dcac3138f8602c48767c11de9b0d8730be75d359a3188bf73f74008441a986965dbce4bc645b4888a281b779ba44d57a7b"
+
+[update]
+[update.modrinth]
+mod-id = "73yiM6Hk"
+version = "L7VTPMUx"

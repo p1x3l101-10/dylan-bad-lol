@@ -1,0 +1,13 @@
+name = "Amethyst Cutting"
+filename = "amethyst-cutting-1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/doin7ovk/versions/1Zda09rW/amethyst-cutting-1.0.jar"
+hash-format = "sha512"
+hash = "72c56b28ecdde5ec9d24df83af80d60e3d0905ce19595311c43c9771e5fc5cec515fa0330189a2f0f7cce9525202f72d080b72aed9428242ad85eb46d4054875"
+
+[update]
+[update.modrinth]
+mod-id = "doin7ovk"
+version = "1Zda09rW"

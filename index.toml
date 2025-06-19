@@ -590,6 +590,41 @@ hash = "11e2af61cab569fc2600b5c03fa82158d51969ff283f37167275580e1672fc54"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-cutting.pw.toml"
+hash = "62ab01b484f6a848d10c5b141edae9eb0a91a28aecfac813d011209022fac132"
+metafile = true
+
+[[files]]
+file = "mods/amethyst-tools-mod.pw.toml"
+hash = "2e8ba98dd2d66da8d3de48fe4c761f7c47c84e734a868877d6e9273abe5ea2d4"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-ascended.pw.toml"
+hash = "da0e7e1f4237e3ea501dab2b090006e42cd76f129be7f8d5206a8f7380dc1098"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-modern-ragnarok.pw.toml"
+hash = "d18e3e705dee731ce4a8be1952c79918ca2534d3dfa0575eec6d8701ffc19648"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis-totem.pw.toml"
+hash = "3e5dd0775476d258ee0db78a7423807bed5832e0530557822522b9dc55688583"
+metafile = true
+
+[[files]]
+file = "mods/apotheosis.pw.toml"
+hash = "c281ef574be46e4df3f7ed04b0a4b5f6d1b2a836b7d1d94c4a30be9c85d3adcb"
+metafile = true
+
+[[files]]
+file = "mods/apothic-attributes.pw.toml"
+hash = "5f3996f32795f87086cd2e34ac1d7cc281411fe0c8799cb589706680107171ee"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "d9c13d7c57b1dc04cf9debddfcb7f718a816969a176c4492828b65523cdea035"
 metafile = true
@@ -602,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
+metafile = true
+
+[[files]]
+file = "mods/astro!-remix.pw.toml"
+hash = "140fd6451cfdfaca30860b3720971e2e57ff6a30144b8172e57217631892d5b5"
 metafile = true
 
 [[files]]
@@ -637,6 +677,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "ce7b86b25df0086f89e25d2f5797e807a221a2ee9824f1b29690ab8280b04f63"
+metafile = true
+
+[[files]]
+file = "mods/cataclysm-apotheosis-addon.pw.toml"
+hash = "dcee648c1455bf3ea3967d7883c9dffe603b38163d4f79bcdd0ec60554af6a8f"
 metafile = true
 
 [[files]]
@@ -707,6 +752,11 @@ metafile = true
 [[files]]
 file = "mods/create-cafe.pw.toml"
 hash = "ae23af488cb8dae1f7b270fea4852561998447baf072e020bc993c10ce9d35ad"
+metafile = true
+
+[[files]]
+file = "mods/create-cataclysm.pw.toml"
+hash = "ad03796595802123c73faad3e6e4749e185e27bf883e8fcc9947c504eecc5abf"
 metafile = true
 
 [[files]]
@@ -991,7 +1041,7 @@ metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "2b31ecce633a2832d6822305f2b6a8d76e882ef589186a09b25b0299ebd7779e"
+hash = "97f7c75ac9bf6ee2a4f15c0f1e3e4cd161f3d2e33f32ebf623811ac90b3c2a83"
 metafile = true
 
 [[files]]
@@ -1005,8 +1055,13 @@ hash = "da4c439611d3c116cb8e467ed67f6779c27bc47377e097ab883888c6ec2c9f64"
 metafile = true
 
 [[files]]
+file = "mods/cucumber.pw.toml"
+hash = "ab1b84d121c333006f03959abccb2f12d4dd0cb61c8fe753cea50318d814daca"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
-hash = "20c14d27a7aa6528d5c0c5c8eb7af53b90f8941dd6ea5ddb64dcbe02f62e115c"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -1052,6 +1107,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "215565aa79bd35949265fe1f914c6c5d5164af1f9644d8d8ac70d78fc8f001f4"
+metafile = true
+
+[[files]]
+file = "mods/engineered-schematics.pw.toml"
+hash = "473d66b1139d12a1c5aa79be90059ba44f8120d5f15480171da7876116196471"
 metafile = true
 
 [[files]]
@@ -1135,6 +1195,26 @@ hash = "e5da88604a6455e1b83175c7e95d96014009e5e29384bebc0840ee1c73cc47ef"
 metafile = true
 
 [[files]]
+file = "mods/immersive-engineering-ore-doubling.pw.toml"
+hash = "20b7231515dcf1f102b4f082d2f0d5e5041fe877059e4b7f854fbcd21977afbc"
+metafile = true
+
+[[files]]
+file = "mods/immersive-geology.pw.toml"
+hash = "27f307feab437fdac8b4d85617fc40168f2b230a885da0841332f3f1c29c83a6"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+metafile = true
+
+[[files]]
+file = "mods/incinerators-try-hard.pw.toml"
+hash = "d2737b2a344938dc2b31d824b9d2a542f835847d7f7f010e2c2140f790c24613"
+metafile = true
+
+[[files]]
 file = "mods/inline.pw.toml"
 hash = "c1593d28f8fa80e736d02a928c69860bf3a0d50aca8ed1b433773ca87f057b54"
 metafile = true
@@ -1155,8 +1235,13 @@ hash = "cb8ee54bfab0e49608974500cee48ba411ddac6eab8b40cb4fea135f4b38b8ae"
 metafile = true
 
 [[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "c80339cef8764c7472cb967a3a948f4a3e1a1c242a7f42b19a5d5a9488a38637"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
-hash = "4efed92cfba6a526cc7678c23799aae43d611386c090f819213bbe46dac4f4b6"
+hash = "d4ce1e57da773c6157f3208eadc40d5962be2bb1d2747eae169debb6d50a543f"
 metafile = true
 
 [[files]]
@@ -1180,8 +1265,18 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "6bd7c616b8027b8e8da66f625cc0d21126447206a99d8823d58cbe2179e53bcc"
+metafile = true
+
+[[files]]
 file = "mods/leveling-plus.pw.toml"
 hash = "0b3cf8be39e636a03530e45c72b281e7f381f7a5cabdb7a1ea01fcacd8593d4e"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
@@ -1205,6 +1300,16 @@ hash = "e0123a551cf7c86f0e097596405ef1e7d7adf9aec00a7256fda66adb6e7e1366"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "7a57ffd70a726bf4fce11d256bc9a5386fe05f013b995724a8a7b53aa5729d25"
+metafile = true
+
+[[files]]
+file = "mods/mystical-garden-cloches.pw.toml"
+hash = "8d84e6405746ef4dd443c031d0f1b42c88910e656f80ab2b38a8d190dcae4954"
+metafile = true
+
+[[files]]
 file = "mods/numismatics.pw.toml"
 hash = "965239db6377fb74528c15f14068627e03fdfe9b06107a0c969274bc533ad6cb"
 metafile = true
@@ -1217,6 +1322,16 @@ metafile = true
 [[files]]
 file = "mods/paucal.pw.toml"
 hash = "d9577a39e8c49d13af7f4b921335731541da641921a9d27b9380525ac54f6cdb"
+metafile = true
+
+[[files]]
+file = "mods/pehkui.pw.toml"
+hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
+metafile = true
+
+[[files]]
+file = "mods/placebo.pw.toml"
+hash = "045d582e2c534c5bb96d7336b4ae2cd12692c6de29b19ae5f1dbfd8759c03b03"
 metafile = true
 
 [[files]]

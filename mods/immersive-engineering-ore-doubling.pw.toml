@@ -1,0 +1,13 @@
+name = "Immersive Balance + Ore Doubling"
+filename = "immersive-engineering-ore-doubling-2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/54NJLhnd/versions/1xpgkbrr/immersive-engineering-ore-doubling-2.5.jar"
+hash-format = "sha512"
+hash = "bc81ac876f3ec4291ba823bf2ac4c5e2291da74e80a085935a1f064a87191f0d42dc85b07651c5780436e38e7991056a0caee7b44392fa9f9477574f1328e793"
+
+[update]
+[update.modrinth]
+mod-id = "54NJLhnd"
+version = "1xpgkbrr"
