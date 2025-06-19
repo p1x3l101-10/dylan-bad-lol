@@ -1,0 +1,13 @@
+name = "Vampires Need Umbrellas"
+filename = "VampiresNeedUmbrellas-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FaUysFni/versions/UianUiSd/VampiresNeedUmbrellas-1.20.1-1.0.1.jar"
+hash-format = "sha512"
+hash = "44d25e4056c2690bc81ead80f32d1e9a95da8a56a1c51ad71a1da6dcdbec8e006b21ba8bdc381968518e4a8a06b64b8dab4f4c745fb9c79fda55f950f7f60aa4"
+
+[update]
+[update.modrinth]
+mod-id = "FaUysFni"
+version = "UianUiSd"

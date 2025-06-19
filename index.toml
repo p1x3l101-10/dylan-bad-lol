@@ -1420,6 +1420,16 @@ hash = "6c617d69c2de80fa24b9738169e146a5fc3b4d8c60a5efae62bd2f7bac9a3df7"
 metafile = true
 
 [[files]]
+file = "mods/vampires-need-umbrellas.pw.toml"
+hash = "7dbcf96055074145dee5398deda1c48ca902302eb773539b33cddf64c442335a"
+metafile = true
+
+[[files]]
+file = "mods/vampirism.pw.toml"
+hash = "83182dcb7e4463e5e2ceefa544e3a6d0b427e4637d5bef613a632bed39731c0d"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "93142608f039f2b06481fa434e33912cc0ab0fa4a2d75ff99d37e243f4f158fc"
 metafile = true
