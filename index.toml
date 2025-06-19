@@ -585,6 +585,11 @@ file = "config/waystones-common.toml"
 hash = "aa80ba5e3a9c9dc58501f9ee285849e7dde26ed095e998e8d34148080c07c804"
 
 [[files]]
+file = "mods/additional-attributes.pw.toml"
+hash = "bf974fe28282643d74c48401d1ccdf7c4a5e39aea55437078df02e802b735ab6"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "570c6ce9a6d24026661f0766ff155de5d588fca1d25a4d1c9906e78d1d325e90"
 metafile = true
