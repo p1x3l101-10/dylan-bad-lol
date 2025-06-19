@@ -1318,6 +1318,11 @@ hash = "140fd6451cfdfaca30860b3720971e2e57ff6a30144b8172e57217631892d5b5"
 metafile = true
 
 [[files]]
+file = "mods/attributizer.pw.toml"
+hash = "4127d964b5bc688b7a80ba254c1b9af6bdb2968a95824e52e0f9f4e361a8b47d"
+metafile = true
+
+[[files]]
 file = "mods/auto-leveling.pw.toml"
 hash = "fad8895a459ed09e6e62ce8063bfada342c77dae27fbce2ba162e3298a2d4e76"
 metafile = true
@@ -1354,7 +1359,7 @@ metafile = true
 
 [[files]]
 file = "mods/cataclysm-apotheosis-addon.pw.toml"
-hash = "dcee648c1455bf3ea3967d7883c9dffe603b38163d4f79bcdd0ec60554af6a8f"
+hash = "58d52adc2660bf9d437bda669481602011662a306c1d5c6bb78037ffd5fa89f3"
 metafile = true
 
 [[files]]
