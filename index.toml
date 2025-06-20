@@ -2070,11 +2070,6 @@ hash = "82d773c61c4fdb74b41f08c9e049b225b3dbba481fca2a87fe2ed91d906fe569"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-carrot-edition.pw.toml"
-hash = "a80b656d856850a891b4a29137c11bcb5833de69f6402a0f9980646e03c26940"
-metafile = true
-
-[[files]]
 file = "mods/stronger-skill-tree-for-pufferfishs-skills.pw.toml"
 hash = "34ae04b2c3fabb577c1973e7c2ea4043a96c533069c5170960011ca9a38bb1d7"
 metafile = true
