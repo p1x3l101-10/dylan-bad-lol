@@ -1436,7 +1436,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compressed.pw.toml"
-hash = "7edb876f4eef56dfaf41a819ea22e7bd7559c00a85aa4b93b85f5a785984c393"
+hash = "ebdeb57545f2e05ec797a35e20c38fdfd1dc5b5d47f667428eec6ef741a50bfb"
 metafile = true
 
 [[files]]
@@ -1722,6 +1722,11 @@ metafile = true
 [[files]]
 file = "mods/default-options.pw.toml"
 hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
 
 [[files]]
