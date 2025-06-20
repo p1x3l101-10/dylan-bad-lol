@@ -1320,6 +1320,11 @@ hash = "4f70b78b9d8976d2bc2f749e20a5b24972ccfdc664668f619a1ef5561b379f0a"
 metafile = true
 
 [[files]]
+file = "mods/bluemap-offline-player-markers-forge.pw.toml"
+hash = "acb811e45d7a260151cce23495520bac14c8031a705b9c2f12aaa0d6abca5474"
+metafile = true
+
+[[files]]
 file = "mods/bluemap.pw.toml"
 hash = "af939c80935ba51d456613436eec5e064dcbbe0b5603c28b41d0aa693a69be3a"
 metafile = true
