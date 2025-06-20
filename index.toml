@@ -866,7 +866,7 @@ hash = "2951cb48c8ceb7c4ab70652af11efc6f7fdfa65237a718697c4282026cd5fa1e"
 
 [[files]]
 file = "config/iceandfire-common.toml"
-hash = "084377f5a7cfbf86d39118eb94334da66a4de11fbd4f1e07e0b88e40bce54db3"
+hash = "93538ec0821a2192e70dfe5338303e2c8f59a73a92f32f94535a84755b585757"
 
 [[files]]
 file = "config/iceandfire/amphithere_biomes.json"
