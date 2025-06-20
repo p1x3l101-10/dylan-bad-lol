@@ -2080,6 +2080,11 @@ hash = "34ae04b2c3fabb577c1973e7c2ea4043a96c533069c5170960011ca9a38bb1d7"
 metafile = true
 
 [[files]]
+file = "mods/the-twilight-forest.pw.toml"
+hash = "d1f859de9867b7433305aef1631aa22a436a4c3924474a21c0a22ab5f2093c04"
+metafile = true
+
+[[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "199087fa3afcccbe6f328ee16f58ab0785bcee13291ebc197f3245c440318e08"
 metafile = true
