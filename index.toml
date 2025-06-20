@@ -1636,7 +1636,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-structures-arise.pw.toml"
-hash = "181b17ecc2709cb2b482c4da55d86834157868e8eacf8eb01a6e74e304457d8e"
+hash = "0d9142563ebe04e882fb144f9231b781e729625f908e27f65d1200fc035a6937"
 metafile = true
 
 [[files]]
@@ -1841,7 +1841,7 @@ metafile = true
 
 [[files]]
 file = "mods/hex-casting-additions.pw.toml"
-hash = "391a11f4be2db74d351e4c1c321eb7f2ef479ccf4eb27b27dafff90373c2a064"
+hash = "6e80b14b4614cbb7489cc848c119af40d1c4b10acd55d6c9e5f358345f74e2f5"
 metafile = true
 
 [[files]]
