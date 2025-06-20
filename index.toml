@@ -1431,7 +1431,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-compact-exp.pw.toml"
-hash = "79a497c38f40caa3010e7d2bc1f0c49af795a19a2404d20e12550a9f50085080"
+hash = "e2f206f55576c19e76ccd398d08021095fd3e83b398f4373e755c29a41a0efbe"
 metafile = true
 
 [[files]]
@@ -1536,7 +1536,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-horse-power.pw.toml"
-hash = "478905b1696ae52814c510be70e5f4a3c65acd7edebac771b314f8a5dc25dbf1"
+hash = "7e03688bb26e7125e8276c8670b0956c1dab1bae5d402b39bacdcdc535762969"
 metafile = true
 
 [[files]]
@@ -1556,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-let-the-adventure-begin.pw.toml"
-hash = "b162d8c85940de339e5744f88e5ef0eb836d13c1bdde1dce40ccc1740eccdf96"
+hash = "46e5b2017f453e5b7f99df92cc90686b97ec9154d170598a6ddc86b8f68db637"
 metafile = true
 
 [[files]]
@@ -1686,7 +1686,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-weaponry.pw.toml"
-hash = "ef776f296ec2018db024e39a81a5569f7414364aec97c712dfd64187fe955b74"
+hash = "a01981f38979654decca27a3f81c82420dea60611eac1ff5e328f967af41f1f5"
 metafile = true
 
 [[files]]
