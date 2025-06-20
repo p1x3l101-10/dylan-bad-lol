@@ -22,5 +22,5 @@
 	trinketCooldown = 5
 	#Cooldown in ticks of a artifact
 	#Range: > 0
-	artifactCooldown = 3
+	artifactCooldown = 1
 
