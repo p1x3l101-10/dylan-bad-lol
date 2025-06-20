@@ -1,13 +1,13 @@
-filename = 'bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar'
-name = 'Create: Bells & Whistles'
-side = 'both'
+name = "Create: Bells & Whistles"
+filename = "bellsandwhistles-0.4.5-1.20.x-Create6.0+.jar"
+side = "both"
 
 [download]
-hash = '2487eea5f1368d70e16c7c6a08c18be3b5d3c0d0'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "99fc8e509ff2ed5a3c521e17bb04e574f6cf5d1abc9adb170dd5d311b9cdc762f75bd133b63e1fd56e00fe030674cf87ee1760187fed1c3d30dae429ee00861c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6280659
 project-id = 905040

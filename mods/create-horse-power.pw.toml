@@ -1,13 +1,13 @@
-filename = 'createhorsepower-1.0.1.jar'
-name = 'Create Horse Power'
-side = 'both'
+name = "Create Horse Power"
+filename = "createhorsepower-1.0.1.jar"
+side = "both"
 
 [download]
-hash = '8ff20e3a91d86f5b188ff11a0aca979c62f21a53'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = ""
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6514772
 project-id = 1121632

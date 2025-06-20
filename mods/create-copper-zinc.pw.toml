@@ -1,13 +1,13 @@
-filename = 'create_copper_and_zinc-1.6.0-forge-1.20.1.jar'
-name = 'Create: Copper & Zinc [Forge/Fabric/NeoForge]'
-side = 'both'
+name = "Create: Copper & Zinc [Forge/Fabric/NeoForge]"
+filename = "create_copper_and_zinc-1.6.0-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '5f33587b0d1a3afd23274cf55896bd9e530e44b4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "903c4729414fa9fb75bbf95543fd10800f828d3df88449c9ed4761fbf2b441dc35562c3bde5621e886566490370ba542b10e427d19ca25808b8e6d0785ffe3c1"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5890390
 project-id = 977947

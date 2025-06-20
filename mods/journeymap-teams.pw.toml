@@ -1,13 +1,14 @@
-filename = 'JourneyMap-Teams-forge-1.20.1-1.1.1.jar'
-name = 'JourneyMap Teams'
-side = 'both'
+name = "JourneyMap Teams"
+filename = "JourneyMap-Teams-forge-1.20.1-1.1.1.jar"
+side = "both"
 
 [download]
-hash = '2b386b84a5cfb1c480de81d24027a27155bdd2941bae007f32fa2cb67b3a23fa538ed30d0d609e9e1df493479b83f6d48531dfc34e41575874e8380329abf222'
-hash-format = 'sha512'
-mode = 'url'
-url = 'https://cdn.modrinth.com/data/EV5wjtvP/versions/GtgssAyM/JourneyMap-Teams-forge-1.20.1-1.1.1.jar'
+url = "https://cdn.modrinth.com/data/EV5wjtvP/versions/GtgssAyM/JourneyMap-Teams-forge-1.20.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "2b386b84a5cfb1c480de81d24027a27155bdd2941bae007f32fa2cb67b3a23fa538ed30d0d609e9e1df493479b83f6d48531dfc34e41575874e8380329abf222"
+mode = "url"
 
+[update]
 [update.modrinth]
-mod-id = 'EV5wjtvP'
-version = 'GtgssAyM'
+mod-id = "EV5wjtvP"
+version = "GtgssAyM"

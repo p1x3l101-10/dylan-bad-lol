@@ -1,13 +1,13 @@
-filename = 'alexscaves-2.0.2.jar'
 name = "Alex's Caves"
-side = 'both'
+filename = "alexscaves-2.0.2.jar"
+side = "both"
 
 [download]
-hash = 'a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "d23092cf507f4cf66ead45d7b393393ea83a9002056962ee6c341e91323ae39e10f2aefbbbc9f5e54409eb3ee522ad0c2dd5661077b09f1e37d034cfdd4333a0"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5848216
 project-id = 924854

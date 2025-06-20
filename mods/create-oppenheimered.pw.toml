@@ -1,13 +1,13 @@
-filename = 'create_oppenheimered-1.0.5.jar'
-name = 'Create: Oppenheimered'
-side = 'both'
+name = "Create: Oppenheimered"
+filename = "create_oppenheimered-1.0.5.jar"
+side = "both"
 
 [download]
-hash = '64f6342985f5dfc7810f5d717707174eef0a32dd'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "c65582b62a9e8369bcf53346262c764afb49018f124b5856d7b0eba01417ae7aec4990c7dff3b789b1f84ef582aa3520b830655cc8e2a580492177cf6b2d87d4"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6029671
 project-id = 934958

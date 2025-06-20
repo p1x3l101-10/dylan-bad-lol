@@ -3,8 +3,8 @@ filename = "attributizer-2.1.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "1990a436e7ccd17f9f654d02f1089a41803601eb"
+hash-format = "sha512"
+hash = "f9ba9c9c00a2fc1ed771dc5bd539cb059edd4a913d8068ec7d2312e24957db12c319d878da60c6bf0e990b5989f8b2aa1b69ba58fd6a8176f06b779a5612e756"
 mode = "metadata:curseforge"
 
 [update]

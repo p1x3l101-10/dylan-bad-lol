@@ -1,13 +1,13 @@
-filename = 'eyesoficeandfire-1.1.0-1.20.1.jar'
-name = 'Eyes of Ice and Fire'
-side = 'both'
+name = "Eyes of Ice and Fire"
+filename = "eyesoficeandfire-1.1.0-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '79647d62ae6ac6fb89ad5f4c3e9fc3b7c690945d'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "1f853d5ef0dea33e59bcda74384697ba2f61ff806f9839837011c6b348fa91da9557cda80fbfbbb08e3397719e34a5ed3d0275c0649e44f565cc66d04823a6e9"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5390953
 project-id = 1022143

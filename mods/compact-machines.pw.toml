@@ -1,13 +1,13 @@
-filename = 'compactmachines-forge-6.0.3.jar'
-name = 'Compact Machines'
-side = 'both'
+name = "Compact Machines"
+filename = "compactmachines-forge-6.0.3.jar"
+side = "both"
 
 [download]
-hash = '41debe12bc7b013c39998788ed02ee971a11518f'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "7b550233ae8422252e673cfe48180c6c594b365626d201b4f2b3a7ea005f490e56eb618d309c38bdc5db26ecbebabffdeef2c3609e02508a213762cef1298cc3"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6000230
 project-id = 224218

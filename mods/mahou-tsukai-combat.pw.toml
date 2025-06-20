@@ -1,13 +1,13 @@
-filename = 'mahou_tsukai_combat-1.0.2-forge-1.20.1.jar'
-name = 'Mahou Tsukai Combat'
-side = 'both'
+name = "Mahou Tsukai Combat"
+filename = "mahou_tsukai_combat-1.0.2-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '704850bd2ead1402288abae41042d2ee17d86094'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "88022bdc13e645f40ed7284f494e6525edaa781535771fd241574a30723bb78a75cc29980955dba89dcc93226981b7c3b15048929253910115a5ee88c918cc3e"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5824327
 project-id = 1087122

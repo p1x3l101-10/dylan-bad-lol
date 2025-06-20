@@ -1,13 +1,13 @@
-filename = 'createbicbit-1.20.1-1.0.jar'
-name = 'Create: Bitterballen'
-side = 'both'
+name = "Create: Bitterballen"
+filename = "createbicbit-1.20.1-1.0.jar"
+side = "both"
 
 [download]
-hash = 'ca64b32aad6557a7781f1e738b4affe1da8e076c'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "e4e29383531e250dc40c80276993995d80c7e1277b94394056a9b0bb9874233aa60df1e942859cc0c12f7277c6a13b1193155c2dc8540d6bf71247f656e911d5"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6286509
 project-id = 918751

@@ -1,13 +1,13 @@
-filename = 'create_better_motors-3.0.2.jar'
-name = 'Create: Better Motors'
-side = 'both'
+name = "Create: Better Motors"
+filename = "create_better_motors-3.0.2.jar"
+side = "both"
 
 [download]
-hash = '5fe5ca4c963d7f67bbfffb727520ef45214d3f24'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "a40ceed791415135aa2bbd08b0289b8caafca40a6669ae8f66825fad0ed4d82ffbf3030f02592411d582b3ce2dac75bf315828d72a3a906a8feb5ef84dd2a6cf"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6613007
 project-id = 1162812

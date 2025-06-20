@@ -1,13 +1,13 @@
-filename = 'gourmet-0.1.1b-1.20.1.jar'
-name = 'Create Gourmet'
-side = 'both'
+name = "Create Gourmet"
+filename = "gourmet-0.1.1b-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '43d8c3bbc7795f476d468922fa7caed4cda6fd7b'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "f56c6f6abb768d36a42c4ecc4bfaa50e516a5d3ef562ee424474b34001d2c5996a924c36b8cdbf2f981cd1c7af7cd76ee1ef4403750857436e14f35610fb61d2"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5263669
 project-id = 867119

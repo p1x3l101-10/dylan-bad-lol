@@ -1,13 +1,13 @@
-filename = 'escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar'
-name = 'Create: Escalated'
-side = 'both'
+name = "Create: Escalated"
+filename = "escalated-1.1.0-create.6.0.6-mc.1.20.1-forge.jar"
+side = "both"
 
 [download]
-hash = '63fb74d5080e179d8bf7e62f385b70ec0c82d2b5'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "a641981ddb3acbe37f4c30c1d3bca8aedb607fa286dbf12c08b1c5eb91a417d29c34e30cc9e072166c3e1b69d5b86a4a6cfc62ce0beead905706dadbb4b903db"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6663749
 project-id = 1260145

@@ -1,13 +1,13 @@
-filename = 'create_recycle_1.0.2_forge_1.20.1.jar'
-name = 'Create Recycle Everything'
-side = 'both'
+name = "Create Recycle Everything"
+filename = "create_recycle_1.0.2_forge_1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'e388ad4db938eaeddcaac49b49d5997794a3cfc8'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "782e0f16459df7d73706d7730393536ff95661e7fc1438f0ea7d0a660b37e06f978b3b0b11f7378cd440a32ebd881306dba8a2d37f1562f8227a242aefc9f94f"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4714469
 project-id = 872577

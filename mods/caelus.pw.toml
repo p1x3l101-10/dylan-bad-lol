@@ -1,13 +1,13 @@
-filename = 'caelus-forge-3.2.0+1.20.1.jar'
-name = 'Caelus API (Forge/NeoForge)'
-side = 'both'
+name = "Caelus API (Forge/NeoForge)"
+filename = "caelus-forge-3.2.0+1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'fa834f140bf7dce7b67c29b46cb531f4309d3209'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "c2cd101a569fc124a3c25b692cce5825ebfce908985532dba6cb694407da09404654c7c9877ac0295327eb3351fca1d3a6088ca23ef98f76d3eabf7ad4d7d5ff"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5281700
 project-id = 308989

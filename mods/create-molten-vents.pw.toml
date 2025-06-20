@@ -1,13 +1,13 @@
-filename = 'molten_vents-1.20.1-2.0.9.jar'
-name = 'Create: Molten Vents'
-side = 'both'
+name = "Create: Molten Vents"
+filename = "molten_vents-1.20.1-2.0.9.jar"
+side = "both"
 
 [download]
-hash = 'e8940356f4f8f4ad451acd2de361536c1eaed93c'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "0588edfed96b0946981fb94f5769be87d5dc2af5718fd4b73f039a9376dbb4aa245ded5584333d2ce91aef1ebcf3a5b565a8d9dec504f291328410b30aa3a67c"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 5980547
 project-id = 824654

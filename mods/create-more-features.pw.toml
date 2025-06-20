@@ -1,13 +1,13 @@
-filename = 'create_more_features-0.8.0-forge-1.20.1.jar'
-name = 'Create: More Features'
-side = 'both'
+name = "Create: More Features"
+filename = "create_more_features-0.8.0-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'bcccb1909eb85161deb2799553138b776b403343'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "aff968c192fa24fd18ecb3dd990bef377583cf6d2974cfdae4bf66bd564e25b7e9ef3a681945a6889604f5dc1f88c213e9f6140574f796499cacd39ea5a1a9b6"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6272148
 project-id = 1091960

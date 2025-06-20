@@ -1,13 +1,13 @@
-filename = 'emitrades-forge-1.2.1+mc1.20.1.jar'
-name = 'EMI Trades (Villager Trading EMI Plugin)'
-side = 'both'
+name = "EMI Trades (Villager Trading EMI Plugin)"
+filename = "emitrades-forge-1.2.1+mc1.20.1.jar"
+side = "both"
 
 [download]
-hash = 'ea86eceb04978bc366fe022bbab5dd5ea0bd3ab4'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "b0344906a3da867373edf6a4d5a7bcb1d0aa0aaf11825244b9d1d5aeb1aec1c5d023b754ab8f881905c7086ba11d2cdc5740ba29ab967b4549346531bcbc1b86"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 4901194
 project-id = 735523

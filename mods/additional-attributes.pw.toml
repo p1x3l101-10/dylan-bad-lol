@@ -3,8 +3,8 @@ filename = "additional_attributes-1.20.1-1.3.5-all.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "3a97dad5dabce6d399531fefc2bc01d3a5737840"
+hash-format = "sha512"
+hash = "10fc2932bfed9c49108f71d1e0c4bb7dc7e42d938ddb19a6d584875c2fdc43822f2131ed37a67bcb60479a2c831eef7fab9de97d83ac65f7b78da5fe3914a391"
 mode = "metadata:curseforge"
 
 [update]

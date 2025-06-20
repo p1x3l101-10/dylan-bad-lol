@@ -1,13 +1,13 @@
-filename = 'create_ultimate_factory-2.1.0-forge-1.20.1.jar'
-name = 'Create: Ultimate Factory [Forge/Fabric/NeoForge]'
-side = 'both'
+name = "Create: Ultimate Factory [Forge/Fabric/NeoForge]"
+filename = "create_ultimate_factory-2.1.0-forge-1.20.1.jar"
+side = "both"
 
 [download]
-hash = '56f02d2c4580a74465bcd67a3f9ddb30507af624'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "5be23119e16e08f5487fc980b2a8f27bcd879c422472337586c8baa4baf416a985d3343bd1a1750fb9e133ecef7b764181ca2bf1c80238f5ca672220f643d5f5"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6588863
 project-id = 978125

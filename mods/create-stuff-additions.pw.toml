@@ -1,13 +1,13 @@
-filename = 'create-stuff-additions1.20.1_v2.1.0.jar'
 name = "Create Stuff 'N Additions"
-side = 'both'
+filename = "create-stuff-additions1.20.1_v2.1.0.jar"
+side = "both"
 
 [download]
-hash = '02c8a8b61370c28e153e1d2bc9bd0db7a8193854'
-hash-format = 'sha1'
-mode = 'metadata:curseforge'
-url = ''
+hash-format = "sha512"
+hash = "165020b72403b58d1265685d5a13c3a32186c28ea95f3ebea3f677ff0cf3c271dbcbc701cfd2680fa846a2eb594f7d3c09c39f51cdd257b64c4e48fb108246aa"
+mode = "metadata:curseforge"
 
+[update]
 [update.curseforge]
 file-id = 6412397
 project-id = 466792

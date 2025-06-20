@@ -3,8 +3,8 @@ filename = "apotheosis_modern_ragnarok-5.0.2+mc1.20.1+tacz1.1.6.jar"
 side = "both"
 
 [download]
-hash-format = "sha1"
-hash = "d42d90093493b814ef536bcf7fd6cf0e5b1d4c62"
+hash-format = "sha512"
+hash = "63db975fad248ea9f71a83be08e51d99674143bc2e190253392124a7acbc25e581c91486ec99e03e03584d4b6c7b29627da6c7c921f9f693dbb41649ea39ec11"
 mode = "metadata:curseforge"
 
 [update]
