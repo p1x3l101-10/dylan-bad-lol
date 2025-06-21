@@ -2087,6 +2087,11 @@ hash = "3633f56579c1008f385a2dc9a145213153306a104d2925a3810576ce4bf29f01"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "6d369d90dac6730c6faa243bf73d00d9945e2a932c9c031eb7619d979eaebe8d"
+metafile = true
+
+[[files]]
 file = "mods/better-combat-by-daedelus.pw.toml"
 hash = "4f70b78b9d8976d2bc2f749e20a5b24972ccfdc664668f619a1ef5561b379f0a"
 metafile = true
@@ -2129,6 +2134,11 @@ metafile = true
 [[files]]
 file = "mods/citadel.pw.toml"
 hash = "ddad50a7c6cadd9209943ba716d3ff00428bea257afc2c24a6a51aac21628e68"
+metafile = true
+
+[[files]]
+file = "mods/clickable-advancements.pw.toml"
+hash = "588807da8d9fcf5b9670a0b9804d8a3c400a4985b23e8aa7368f4e7c6e721f80"
 metafile = true
 
 [[files]]
@@ -2499,6 +2509,11 @@ metafile = true
 [[files]]
 file = "mods/cucumber.pw.toml"
 hash = "ab1b84d121c333006f03959abccb2f12d4dd0cb61c8fe753cea50318d814daca"
+metafile = true
+
+[[files]]
+file = "mods/cupboard.pw.toml"
+hash = "2eb26b157c4159bfeff6a00147afa35284397d558f84b55367d1a41064d7456a"
 metafile = true
 
 [[files]]
