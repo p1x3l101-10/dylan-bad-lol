@@ -1,0 +1,13 @@
+name = "Small bats"
+filename = "smallbats-0.0.6-ALPHA.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KJY7RZyB/versions/U8FsXC3B/smallbats-0.0.6-ALPHA.jar"
+hash-format = "sha512"
+hash = "2dd2543c75e5bd9689793f4ff10cfc3d5ce7f5c9c87a5101de2d996a584fdd3859399d58c3d0093b13b013b7174b9cc9f35efc98745b684f6a7ccfae70fdaa09"
+
+[update]
+[update.modrinth]
+mod-id = "KJY7RZyB"
+version = "U8FsXC3B"

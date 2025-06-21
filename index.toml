@@ -842,7 +842,7 @@ hash = "17031e67a6bd3e638a3247663b774e47ce8d0b69ff6f1772aca7d3e371a1758b"
 
 [[files]]
 file = "config/hexcasting-common.toml"
-hash = "5684dc1338494ca6ca7628cde1333f0dffa4e1648b454099de60d454fd75457a"
+hash = "8233df505e96dd14164f6a62611742635db5fc0f0deabd99862f05197074e4be"
 
 [[files]]
 file = "config/hexcastingadditions-common.toml"
@@ -1305,6 +1305,11 @@ hash = "f0dbfaf0961235bacf252b8b258af40a7d0d6820668ab06cfebe2b83679df0be"
 metafile = true
 
 [[files]]
+file = "mods/avaritianeo.pw.toml"
+hash = "c81bed42bf50c8bb695de92cf3c70f25c6d3f9d4a2036aa10b985f303bbd1cfa"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "a86ce796ebf9141ed1bd0bff0446f3f06a63f588245bb3d206364968ba1f83a6"
 metafile = true
@@ -1327,6 +1332,11 @@ metafile = true
 [[files]]
 file = "mods/bluemap.pw.toml"
 hash = "af939c80935ba51d456613436eec5e064dcbbe0b5603c28b41d0aa693a69be3a"
+metafile = true
+
+[[files]]
+file = "mods/bluemapfrontiers.pw.toml"
+hash = "10ba3fd700250983f000f177eff123298612405c73a68993407acf2c9ac1fe8b"
 metafile = true
 
 [[files]]
@@ -1685,6 +1695,11 @@ hash = "e842f7e657a6b030fdeb4e688a2c0e7d42a6830e4a7646f5ef03c5f8cc7cf14a"
 metafile = true
 
 [[files]]
+file = "mods/create-vampirism.pw.toml"
+hash = "d54e06a9cdff8682cd9c22721e257e0bba53e031307a4a716daa944f29cbba32"
+metafile = true
+
+[[files]]
 file = "mods/create-waystones-recipes.pw.toml"
 hash = "f8169d635b77478755c914f02597a0fb3e5b739c89ad8ddbe8cb3eee8a8d7898"
 metafile = true
@@ -1721,7 +1736,7 @@ metafile = true
 
 [[files]]
 file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
@@ -1797,6 +1812,11 @@ metafile = true
 [[files]]
 file = "mods/engineered-schematics.pw.toml"
 hash = "473d66b1139d12a1c5aa79be90059ba44f8120d5f15480171da7876116196471"
+metafile = true
+
+[[files]]
+file = "mods/expandability.pw.toml"
+hash = "a9c35b5265445218f14be7bce6c01bcaf7f6c3e456e8ef675ae41b3d0298e3a5"
 metafile = true
 
 [[files]]
@@ -1975,6 +1995,11 @@ hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
 file = "mods/mahou-tsukai-combat.pw.toml"
 hash = "01d97d9de3ab28fff6b57d07557138cb7f70f7d1a7519b9ec22e8a2ada168e3b"
 metafile = true
@@ -1982,6 +2007,11 @@ metafile = true
 [[files]]
 file = "mods/mahou-tsukai.pw.toml"
 hash = "11c9f86fe1062efa854fb221147f57ce9ff48f6b4876fa3f59a2a18e9a3d6727"
+metafile = true
+
+[[files]]
+file = "mods/mapfrontiers.pw.toml"
+hash = "fe878c20c83e1d4ac34a97c370a50947ed90d765ec005c935925aaded41abe8c"
 metafile = true
 
 [[files]]
@@ -2002,6 +2032,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-garden-cloches.pw.toml"
 hash = "8d84e6405746ef4dd443c031d0f1b42c88910e656f80ab2b38a8d190dcae4954"
+metafile = true
+
+[[files]]
+file = "mods/nameless-trinkets.pw.toml"
+hash = "200c786fa79062b05dee983ea88deb97d12a00e4de237fe85a35ab4e02b8cb5d"
 metafile = true
 
 [[files]]
@@ -2080,6 +2115,11 @@ hash = "82d773c61c4fdb74b41f08c9e049b225b3dbba481fca2a87fe2ed91d906fe569"
 metafile = true
 
 [[files]]
+file = "mods/small-bats.pw.toml"
+hash = "d8b423900ba28665a8b2d2bc930c729d42f76d93db72d47e15dcce41da0d4b06"
+metafile = true
+
+[[files]]
 file = "mods/stronger-skill-tree-for-pufferfishs-skills.pw.toml"
 hash = "34ae04b2c3fabb577c1973e7c2ea4043a96c533069c5170960011ca9a38bb1d7"
 metafile = true
@@ -2107,6 +2147,16 @@ metafile = true
 [[files]]
 file = "mods/vampires-need-umbrellas.pw.toml"
 hash = "7dbcf96055074145dee5398deda1c48ca902302eb773539b33cddf64c442335a"
+metafile = true
+
+[[files]]
+file = "mods/vampiric-ageing-a-vampirism-addon.pw.toml"
+hash = "0590f285d5172bdb5a5f5b1e7041a744dad5d03146ea4aeda558d544506f1c8b"
+metafile = true
+
+[[files]]
+file = "mods/vampirism-integrations.pw.toml"
+hash = "7975a423fee3c103ff44069da15c59aeb391d0cded8e91e0b1ee7da7a1c5a3d2"
 metafile = true
 
 [[files]]
