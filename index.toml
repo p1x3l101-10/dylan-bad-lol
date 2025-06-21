@@ -1309,11 +1309,6 @@ hash = "f0dbfaf0961235bacf252b8b258af40a7d0d6820668ab06cfebe2b83679df0be"
 metafile = true
 
 [[files]]
-file = "mods/avaritianeo.pw.toml"
-hash = "c81bed42bf50c8bb695de92cf3c70f25c6d3f9d4a2036aa10b985f303bbd1cfa"
-metafile = true
-
-[[files]]
 file = "mods/balm.pw.toml"
 hash = "a86ce796ebf9141ed1bd0bff0446f3f06a63f588245bb3d206364968ba1f83a6"
 metafile = true
@@ -1979,6 +1974,11 @@ hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
 
 [[files]]
+file = "mods/kubejs-mystical-agriculture.pw.toml"
+hash = "8ea06904f01f2dc5444079c9b781da2f7fc7187df7b23db10eea97da56612c5b"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "b6ed220c9069f60704dbfe19fd55c976ca56ada35bcb6918c4ad226cd842b99c"
 metafile = true
@@ -2029,8 +2029,23 @@ hash = "3061844bcdf1654f413ae4535052307a93d8bf2bdf187caf0ebfb580abc4b950"
 metafile = true
 
 [[files]]
+file = "mods/mystical-adaptations.pw.toml"
+hash = "2fd8e1aeb83bb46d51e290760f4f5eaa40a48078b809c450dc032731c53f70b8"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "a688b0aa8abb39e5cb303a7172038d15c99b10af075bd2bbb40d72bf1ec34358"
+metafile = true
+
+[[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "7a57ffd70a726bf4fce11d256bc9a5386fe05f013b995724a8a7b53aa5729d25"
+metafile = true
+
+[[files]]
+file = "mods/mystical-customization.pw.toml"
+hash = "ad30c4d254b12220608c2cdd56d4aedb34210afa43be9d9c914ae7c3fe3f7d24"
 metafile = true
 
 [[files]]
@@ -2051,6 +2066,16 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "fb05d7ec98426510ee309380a6f804f5670fe45657cdfe6b2b83ee1fa375f7e7"
+metafile = true
+
+[[files]]
+file = "mods/packagedauto.pw.toml"
+hash = "05255527215a7faabb7649f483b6450eb2e5e0834c870fce088105ff2259afa2"
+metafile = true
+
+[[files]]
+file = "mods/packagedavaritia.pw.toml"
+hash = "7aa06c29b659b499d81181eb1445d22952a750b859ed502987c5560782fd4ed1"
 metafile = true
 
 [[files]]
@@ -2081,6 +2106,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
+metafile = true
+
+[[files]]
+file = "mods/re-avaritia.pw.toml"
+hash = "84ad924c5ffa20d1543a2c9b45b390b4380cb2bf2ff707722084f72f0633ea27"
 metafile = true
 
 [[files]]

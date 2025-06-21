@@ -1,0 +1,13 @@
+name = "Mystical Customization"
+filename = "MysticalCustomization-1.20.1-5.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lNK9A4rh/versions/LyzJTmfT/MysticalCustomization-1.20.1-5.0.2.jar"
+hash-format = "sha512"
+hash = "d5ca6eed9463063712fbcbbbe3a3e2923478faa06b0ed89d0518e9d588fe0acc245f4a7ab1870df46e4cb12ffd26bab0179d714c36a12a525079303a92c9bd5c"
+
+[update]
+[update.modrinth]
+mod-id = "lNK9A4rh"
+version = "LyzJTmfT"
