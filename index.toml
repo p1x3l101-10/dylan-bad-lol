@@ -2120,8 +2120,8 @@ hash = "d8b423900ba28665a8b2d2bc930c729d42f76d93db72d47e15dcce41da0d4b06"
 metafile = true
 
 [[files]]
-file = "mods/stronger-skill-tree-for-pufferfishs-skills.pw.toml"
-hash = "34ae04b2c3fabb577c1973e7c2ea4043a96c533069c5170960011ca9a38bb1d7"
+file = "mods/stronger-skill-tree-for-pufferfishs-skills-(unlock-all).pw.toml"
+hash = "1d162194ee6d13d15426bce1baf263d73f0d1b282579b9a271ca2030e016f9d6"
 metafile = true
 
 [[files]]

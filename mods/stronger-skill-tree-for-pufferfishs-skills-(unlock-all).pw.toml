@@ -1,0 +1,13 @@
+name = "Stronger Skill Tree for pufferfish's skills (Unlock All)"
+filename = "Stronger Skill Tree (Unlock All).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nS7QVK7F/versions/DRJeCC8x/Stronger%20Skill%20Tree%20%28Unlock%20All%29.jar"
+hash-format = "sha512"
+hash = "0f508391a4811066537c3e24c36977ea340f07ae1c352bdfad4acd2ca3caa1b06603c97500c8c7f2fcbf90105eee6fba787bd41edb2f7d85a0cd993d0b65f966"
+
+[update]
+[update.modrinth]
+mod-id = "nS7QVK7F"
+version = "DRJeCC8x"
