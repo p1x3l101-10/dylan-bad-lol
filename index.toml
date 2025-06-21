@@ -1205,6 +1205,10 @@ file = "kubejs/data/hexcasting/loot_tables/grant_patchi_book.json"
 hash = "d6d5abd371987c3c121e19b1c556ef4923c1397e2c189995e3a6edfa2980740e"
 
 [[files]]
+file = "kubejs/server_scripts/dragon_blood.js"
+hash = "b383811a52b68be8abab122f30eb7cc288c15139f1fe9ae866815d196393a0a2"
+
+[[files]]
 file = "mods/additional-attributes.pw.toml"
 hash = "6b593951dcf96470e62593d9ce5e6d02defce13fddb4a629cc31f06033b51a4c"
 metafile = true
