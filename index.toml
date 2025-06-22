@@ -2136,11 +2136,6 @@ hash = "10ba3fd700250983f000f177eff123298612405c73a68993407acf2c9ac1fe8b"
 metafile = true
 
 [[files]]
-file = "mods/bonsai-trees.pw.toml"
-hash = "694d0fe5649b4ab9d79467c39afaad93d346f9654be4d26215debef08363d5fb"
-metafile = true
-
-[[files]]
 file = "mods/botarium.pw.toml"
 hash = "41e86b26f4cde514268443446e873ca32e0c2e128c3f106c46489fe6c608478e"
 metafile = true
