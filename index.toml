@@ -1982,6 +1982,11 @@ hash = "6b593951dcf96470e62593d9ce5e6d02defce13fddb4a629cc31f06033b51a4c"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "35f2e552038f05828a4d4a76dc875ab6ed261f93fce9a3a54d3b20be7d8d7acb"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "570c6ce9a6d24026661f0766ff155de5d588fca1d25a4d1c9906e78d1d325e90"
 metafile = true
@@ -1989,6 +1994,16 @@ metafile = true
 [[files]]
 file = "mods/alexs-caves.pw.toml"
 hash = "d7391b85c25f38396342b7cd86070bc3872a21c0bb5ac6865d9c955747935c1e"
+metafile = true
+
+[[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "57c0f350262f81f6768226f833a7bc3d6d9d6342c4e2c77a0f477043483c42b9"
+metafile = true
+
+[[files]]
+file = "mods/almost-unify-everything.pw.toml"
+hash = "9f54fb535c90936437384f97a8cf75924bce62cc99338523e4710e2b5d21c6aa"
 metafile = true
 
 [[files]]
@@ -2164,6 +2179,11 @@ metafile = true
 [[files]]
 file = "mods/copycats.pw.toml"
 hash = "90d224d4e674f1e00bdef56024b948bb4a84c43fdcd6026e44bb14e33ba12c5e"
+metafile = true
+
+[[files]]
+file = "mods/crazy-ae2-addons.pw.toml"
+hash = "0f00f3b4fb7625d32fbe00fefbd0cd21a6b5b1af513ddd3029de3f119f53054c"
 metafile = true
 
 [[files]]
@@ -2628,12 +2648,17 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f2bfb7bf3ea425f7111baff6a0e867ea7d1515d04ea4ac5c71e86b95df941235"
+hash = "5290e7961ab2ca528b8bf3fecfbcb33240029314fd7cb2086c06c3ee13daf1fc"
 metafile = true
 
 [[files]]
 file = "mods/global-server-config.pw.toml"
 hash = "c4b391ce90073709174f6da82a0d22ac32d4ac53b4aa536309742c9d94d409d7"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "ce26e71a01dc450b60d754bc44675915e8a54f2bb6db215a76a21e43fad3d44e"
 metafile = true
 
 [[files]]
@@ -2704,6 +2729,16 @@ metafile = true
 [[files]]
 file = "mods/incinerators-try-hard.pw.toml"
 hash = "d2737b2a344938dc2b31d824b9d2a542f835847d7f7f010e2c2140f790c24613"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing-souls.pw.toml"
+hash = "81c4020c4f7a58fd3c3042c1c6dc47250e947059cf4feadc2ca1de1dd0a6c594"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fc94c66da5ee55811adbff95aebc04daa6de4751be86264658fa26d539149d59"
 metafile = true
 
 [[files]]
@@ -2802,6 +2837,11 @@ hash = "fe878c20c83e1d4ac34a97c370a50947ed90d765ec005c935925aaded41abe8c"
 metafile = true
 
 [[files]]
+file = "mods/mifa.pw.toml"
+hash = "72c126bb0ab22d65721de57bddb9917bc7aef450cdb9c663ceadd4c6205c71ff"
+metafile = true
+
+[[files]]
 file = "mods/moreiotas.pw.toml"
 hash = "9902722b40ca34e5b528988db779ba85f5743ed958beac4aa418e46533f021fd"
 metafile = true
@@ -2887,6 +2927,11 @@ hash = "4bab54fe8707e52f28242c0e4833fde71353149b3e0cca9f5cb692eaebb38d71"
 metafile = true
 
 [[files]]
+file = "mods/powah.pw.toml"
+hash = "38e814eedfa90068b2ab0e0f48ef1aaafd867cc055619e2c86da308abb8216db"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
@@ -2909,6 +2954,11 @@ metafile = true
 [[files]]
 file = "mods/ritchies-projectile-library.pw.toml"
 hash = "31426f0aca6662da7029b1d06b4125946d118e180c9febbee6763cef7e1f67e8"
+metafile = true
+
+[[files]]
+file = "mods/schematic-energistics.pw.toml"
+hash = "8c304ac4512727d4f667fbfde179415fad63aa35c15aa7db281c288bb725983a"
 metafile = true
 
 [[files]]
@@ -2949,6 +2999,11 @@ metafile = true
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "199087fa3afcccbe6f328ee16f58ab0785bcee13291ebc197f3245c440318e08"
+metafile = true
+
+[[files]]
+file = "mods/titanium.pw.toml"
+hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]
