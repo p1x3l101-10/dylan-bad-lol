@@ -1977,6 +1977,10 @@ file = "kubejs/server_scripts/dragon_blood.js"
 hash = "b383811a52b68be8abab122f30eb7cc288c15139f1fe9ae866815d196393a0a2"
 
 [[files]]
+file = "kubejs/server_scripts/mahou_dust_uncraft.js"
+hash = "7f7fdcf7c0843557b82fd6224b110d39f4fe5e152153fc88fac8093cf37cb71f"
+
+[[files]]
 file = "mods/additional-attributes.pw.toml"
 hash = "6b593951dcf96470e62593d9ce5e6d02defce13fddb4a629cc31f06033b51a4c"
 metafile = true
@@ -2129,6 +2133,11 @@ metafile = true
 [[files]]
 file = "mods/bluemapfrontiers.pw.toml"
 hash = "10ba3fd700250983f000f177eff123298612405c73a68993407acf2c9ac1fe8b"
+metafile = true
+
+[[files]]
+file = "mods/bonsai-trees.pw.toml"
+hash = "694d0fe5649b4ab9d79467c39afaad93d346f9654be4d26215debef08363d5fb"
 metafile = true
 
 [[files]]
@@ -2817,6 +2826,11 @@ hash = "8c8b2b39602a05b6b4329d6d727f8aa49b6f89fcf691a2084569b612c17e6207"
 metafile = true
 
 [[files]]
+file = "mods/libnonymous.pw.toml"
+hash = "f0965cdc5cdb353d94bf0ad135e716c3c1e54cc389255b0be8830de07b95a4ba"
+metafile = true
+
+[[files]]
 file = "mods/lionfish-api.pw.toml"
 hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
@@ -2994,6 +3008,11 @@ metafile = true
 [[files]]
 file = "mods/stronger-skill-tree-for-pufferfishs-skills-(unlock-all).pw.toml"
 hash = "1d162194ee6d13d15426bce1baf263d73f0d1b282579b9a271ca2030e016f9d6"
+metafile = true
+
+[[files]]
+file = "mods/super-factory-manager.pw.toml"
+hash = "eabb8afda0112e652ef8045e8a3a886d1869639f7af82a5d3eaa59c571d60e6a"
 metafile = true
 
 [[files]]

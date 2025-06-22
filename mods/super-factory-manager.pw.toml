@@ -1,0 +1,13 @@
+name = "Super Factory Manager"
+filename = "Super Factory Manager (SFM)-MC1.20.1-4.22.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/aecUorJQ/versions/xodV1OIC/Super%20Factory%20Manager%20%28SFM%29-MC1.20.1-4.22.0.jar"
+hash-format = "sha512"
+hash = "0b6cc14f76d49af9c75019eaab68817138e59d2f84486329f57f8dbf34e7f4bfb21b686858988f96bcba9aa9fdf4dd96a3f2fcffaec0f2c33feff58e1256dd1a"
+
+[update]
+[update.modrinth]
+mod-id = "aecUorJQ"
+version = "xodV1OIC"
