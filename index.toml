@@ -2196,11 +2196,6 @@ hash = "0f00f3b4fb7625d32fbe00fefbd0cd21a6b5b1af513ddd3029de3f119f53054c"
 metafile = true
 
 [[files]]
-file = "mods/create-applied-kinetics.pw.toml"
-hash = "c42e3617c57e5ae2687b7dc2054b1103c42e59cc9d50f434e8aec8c73f4f9747"
-metafile = true
-
-[[files]]
 file = "mods/create-aquatic-ambitions.pw.toml"
 hash = "cd1775565aa5fb30c70b088ef14ccf529a2b56ada37cb7d3ce5226ee4c888423"
 metafile = true
