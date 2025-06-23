@@ -1,0 +1,13 @@
+name = "Mahou Resprite"
+filename = "Mahou Resprite.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qdZhtbaw/versions/zXcTWfuG/Mahou%20Resprite.zip"
+hash-format = "sha512"
+hash = "a09ec0a610f606d459f0f23e363462fc05ef1a1830736422c467801432a54554cb14f6555cf6fedfe0481af222a0e5bd88d175c3a8086e43cd67ad71c5e1f935"
+
+[update]
+[update.modrinth]
+mod-id = "qdZhtbaw"
+version = "zXcTWfuG"

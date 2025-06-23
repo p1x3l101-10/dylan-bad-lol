@@ -3061,6 +3061,11 @@ hash = "b564c1ef122be58225a91dddf95783d67ca6fcce54348f21cc4221e7a03afe1a"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mahou-resprite.pw.toml"
+hash = "3b570ab800baa27403d6e4780327d1197201214d9f6e5ac0ea6cdabb7d661f78"
+metafile = true
+
+[[files]]
 file = "tacz/tacz-pre.toml"
 hash = "410ba74dc6cb6c070db25c8fcfc0657b02a0523a3a25722da8e6f4310215d133"
 
