@@ -1985,6 +1985,10 @@ file = "kubejs/server_scripts/mystical_hexcasting.js"
 hash = "49ce92f023c131b75fdc02d002d6f8260ff538b1996de13baf265826a6627948"
 
 [[files]]
+file = "kubejs/server_scripts/seed_from_essence.js"
+hash = "3c8f679af5275acee332cb013b2970fa515b9aeaeec744f2b0d365c6732c0220"
+
+[[files]]
 file = "mods/additional-attributes.pw.toml"
 hash = "6b593951dcf96470e62593d9ce5e6d02defce13fddb4a629cc31f06033b51a4c"
 metafile = true
