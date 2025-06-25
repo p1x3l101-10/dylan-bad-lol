@@ -1986,7 +1986,7 @@ hash = "49ce92f023c131b75fdc02d002d6f8260ff538b1996de13baf265826a6627948"
 
 [[files]]
 file = "kubejs/server_scripts/seed_from_essence.js"
-hash = "3c8f679af5275acee332cb013b2970fa515b9aeaeec744f2b0d365c6732c0220"
+hash = "e1ae79c52e55e9e28fb918eaffa93ddb1bec0e37f7596ba8c5a62663d0d3796c"
 
 [[files]]
 file = "mods/additional-attributes.pw.toml"

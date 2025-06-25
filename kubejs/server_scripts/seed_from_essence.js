@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
  event.shaped(
-    Item.of('minecraft:seeds', 1), 
+    Item.of('minecraft:wheat_seeds', 16), 
     [
       'A A',
       'AAA', 
