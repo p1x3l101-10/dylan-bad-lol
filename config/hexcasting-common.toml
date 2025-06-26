@@ -11,7 +11,7 @@
 	chargedCrystalMediaAmount = 100000
 	#How many points of media a half-heart is worth when casting from HP
 	#Range: 0.0 ~ Infinity
-	mediaToHealthRate = 10000.0
+	mediaToHealthRate = 100000.0
 
 [Cooldowns]
 	#Cooldown in ticks of a cypher
