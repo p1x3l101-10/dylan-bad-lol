@@ -2199,6 +2199,11 @@ hash = "90d224d4e674f1e00bdef56024b948bb4a84c43fdcd6026e44bb14e33ba12c5e"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
+metafile = true
+
+[[files]]
 file = "mods/crazy-ae2-addons.pw.toml"
 hash = "0f00f3b4fb7625d32fbe00fefbd0cd21a6b5b1af513ddd3029de3f119f53054c"
 metafile = true
