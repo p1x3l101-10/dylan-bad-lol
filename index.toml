@@ -2564,6 +2564,11 @@ hash = "953519957bb8f2f79304bd5ae7df565498d13a16ee62d7e698bd062d59add283"
 metafile = true
 
 [[files]]
+file = "mods/disccord.pw.toml"
+hash = "89e954aabd68413a05e7c68d9fc6f306b6a1b5023f003018b90c2adf0bf6ec27"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
