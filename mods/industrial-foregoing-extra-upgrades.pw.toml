@@ -1,0 +1,13 @@
+name = "Industrial Foregoing: Extra Upgrades"
+filename = "ifeu-1.20.1-2.3.004.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "07d94a19ff97c966694fe05cec1cfce46139a87e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6669172
+project-id = 1161049

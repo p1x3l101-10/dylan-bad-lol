@@ -7,7 +7,7 @@
 	#Should the Wither drop Cognizant Dust when killed with a Mystical Enlightenment enchanted essence weapon?
 	witherDropsCognizant = true
 	#Should vanilla crafting recipes for seeds be generated?
-	seedCraftingRecipes = false
+	seedCraftingRecipes = true
 	#Should the Wither drop essence when killed with an essence weapon?
 	witherDropsEssence = true
 	#Should the Ender Dragon drop Cognizant Dust when killed with a Mystical Enlightenment enchanted essence weapon?

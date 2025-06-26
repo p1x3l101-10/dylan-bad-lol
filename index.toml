@@ -1378,7 +1378,7 @@ hash = "79f1559a4239d9a72bf9126438554995c1995779dc8a89a55b69a6a7b462eb17"
 
 [[files]]
 file = "config/mysticalagriculture-common.toml"
-hash = "490f4f4ae0121a8367f72c36e25c77d8984042ec0dc922c0ddb91c5633a7854d"
+hash = "ced17c2da028fd662ee7720e2e16be843538d388fc1f5f150d8b3f56b43dedd4"
 
 [[files]]
 file = "config/mysticalcustomization/configure-augments.json"
@@ -2707,6 +2707,11 @@ hash = "d2737b2a344938dc2b31d824b9d2a542f835847d7f7f010e2c2140f790c24613"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing-extra-upgrades.pw.toml"
+hash = "a32005922f5d470b017ca0b990e1c9812e0f1129f5b39f4c3889ec19b84154c3"
+metafile = true
+
+[[files]]
 file = "mods/industrial-foregoing-souls.pw.toml"
 hash = "81c4020c4f7a58fd3c3042c1c6dc47250e947059cf4feadc2ca1de1dd0a6c594"
 metafile = true
@@ -2814,6 +2819,11 @@ metafile = true
 [[files]]
 file = "mods/mapfrontiers.pw.toml"
 hash = "fe878c20c83e1d4ac34a97c370a50947ed90d765ec005c935925aaded41abe8c"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "f6482009bbefcacf49667df5b128ad025cda09b6dd1510f970eee607a44e7553"
 metafile = true
 
 [[files]]
@@ -3009,6 +3019,11 @@ metafile = true
 [[files]]
 file = "mods/underground-villages-stoneholm.pw.toml"
 hash = "de470edc5df0ce0838426f1698de468df768e7e52fef2fd7f999fdf9b13dcf47"
+metafile = true
+
+[[files]]
+file = "mods/universal-wrench.pw.toml"
+hash = "e3ed9c9a82afccb6ad6cd5e269871e220d51c6ff9f322b67761c2f6890413169"
 metafile = true
 
 [[files]]

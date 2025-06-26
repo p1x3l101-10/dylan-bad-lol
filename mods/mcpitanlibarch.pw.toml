@@ -1,0 +1,13 @@
+name = "MCPitanLib"
+filename = "mcpitanlib-3.3.3-1.20.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uNRoUnGT/versions/m4CGXIwB/mcpitanlib-3.3.3-1.20.1-forge.jar"
+hash-format = "sha512"
+hash = "27ef305d941fb28a39f316debdd2873d7a7bcb992be6c26f27d264d756de4d6f8eb64046c1616b016cb93aa821347fcaa878fc1faa620b9cdeddbe22a59e8048"
+
+[update]
+[update.modrinth]
+mod-id = "uNRoUnGT"
+version = "m4CGXIwB"
