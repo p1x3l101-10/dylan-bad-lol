@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/IncineratorsTryHard-1.toml.bak"
-hash = "fc821343d4135f02799094d1b8c86e1f883f05d9d21f8c4eb72fcdedf13f831d"
-
-[[files]]
 file = "config/IncineratorsTryHard.toml"
 hash = "2601ad59331430d81f62c1327503fdf80fbe12e812c00d1646ba6bb0bfd88b6b"
 
@@ -769,26 +765,6 @@ file = "config/create_bitterballen.toml"
 hash = "398e4b892587da896af8de924421efad4aff8672e81673bc6de998dd4d0a6e0b"
 
 [[files]]
-file = "config/create_central_kitchen-common-1.toml.bak"
-hash = "8c04cd8601a78efacde93ae40f7d977afb42009aecacae48dd4bd5de6a09b097"
-
-[[files]]
-file = "config/create_central_kitchen-common-2.toml.bak"
-hash = "8c04cd8601a78efacde93ae40f7d977afb42009aecacae48dd4bd5de6a09b097"
-
-[[files]]
-file = "config/create_central_kitchen-common-3.toml.bak"
-hash = "8c04cd8601a78efacde93ae40f7d977afb42009aecacae48dd4bd5de6a09b097"
-
-[[files]]
-file = "config/create_central_kitchen-common-4.toml.bak"
-hash = "f94307edd006e1f48e2d9b0fdd74a792186972bc405de9dfe668adcf335426a7"
-
-[[files]]
-file = "config/create_central_kitchen-common-5.toml.bak"
-hash = "8c04cd8601a78efacde93ae40f7d977afb42009aecacae48dd4bd5de6a09b097"
-
-[[files]]
 file = "config/create_central_kitchen-common.toml"
 hash = "8c04cd8601a78efacde93ae40f7d977afb42009aecacae48dd4bd5de6a09b097"
 
@@ -1275,10 +1251,6 @@ hash = "3e598cbab5bda3e6c6181bda2df7485761f6782718252321eb6602769e79336b"
 [[files]]
 file = "config/immersivegeology-client.toml"
 hash = "b58dbf6935fef86ad920d7539f4e50ec88a93f26d791c582f82b2d7c1a8b3b6a"
-
-[[files]]
-file = "config/immersivegeology-server-1.toml.bak"
-hash = "a266efe63ca4b0f96d25f58da3a9fcef211c1e66736d2ce1fe36e6b978e683cd"
 
 [[files]]
 file = "config/immersivegeology-server.toml"
@@ -1897,10 +1869,6 @@ file = "config/twilightforest-client.toml"
 hash = "77e7aacadc5d425ebe3f19b78bb8af526a589134877c8406244a52108c4697a0"
 
 [[files]]
-file = "config/twilightforest-common-1.toml.bak"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "config/twilightforest-common.toml"
 hash = "76fbdaa5542c39c49a595d329343258fc1a254c5bb5c9e4dd95188d2ff15e56e"
 
@@ -1927,26 +1895,6 @@ hash = "d3fcd6afb002d673dfd0de48b959d06143a58850939323d5b641bfe78efd73ae"
 [[files]]
 file = "config/vampirism-balance.toml"
 hash = "d13a4520eab3522c248b4aacb35a16ba1a053e01b4a4fc0884b8317fe000cc27"
-
-[[files]]
-file = "config/vampirism-client-1.toml.bak"
-hash = "ae5affca2218876d116c850944c381909043f957c01fb48ad9b227a9df41cd7a"
-
-[[files]]
-file = "config/vampirism-client-2.toml.bak"
-hash = "ae5affca2218876d116c850944c381909043f957c01fb48ad9b227a9df41cd7a"
-
-[[files]]
-file = "config/vampirism-client-3.toml.bak"
-hash = "ae5affca2218876d116c850944c381909043f957c01fb48ad9b227a9df41cd7a"
-
-[[files]]
-file = "config/vampirism-client-4.toml.bak"
-hash = "3d752f297d3c6bab16df83726094551e6fb8eb51cd4f782bfb1c7c369a1001b1"
-
-[[files]]
-file = "config/vampirism-client-5.toml.bak"
-hash = "3d752f297d3c6bab16df83726094551e6fb8eb51cd4f782bfb1c7c369a1001b1"
 
 [[files]]
 file = "config/vampirism-client.toml"
