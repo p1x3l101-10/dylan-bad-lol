@@ -10,7 +10,7 @@ sireingMechanic = true
 #Whether to use Number of Bites to increase Age. Enable only one option
 infectionBasedIncrease = false
 #Whether to use fully draining villagers of blood to increase Age. Enable only one option
-drainBasedIncrease = false
+drainBasedIncrease = true
 #Whether to use Time Alive  to increase Age. Enable only one option
 timeBasedIncrease = false
 #Whether to use Hunted Entities to increase Age, this is effectively the same as the hunter form of ageing. Enable only one option
@@ -69,7 +69,7 @@ maxHealthIncrease = [0.0, 2.0, 2.0, 3.0, 4.0, 5.0]
 #Whether Age makes a difference on Trade Prices
 doesAgeAffectPrices = true
 #Makes running out of blood harsher on vampire, scaling with age
-harsherOutOfBlood = false
+harsherOutOfBlood = true
 #How much each rank affects Villager trade prices. 
 ageAffectTradePrices = [1.0, 1.1, 1.25, 1.5, 1.75, 2.0]
 #If enabled, vampire rage will nullify increased damage from generic vampire weakness reduction
@@ -96,7 +96,7 @@ ageExhaustionEffect = [-0.0, -0.1, -0.2, -0.3, -0.4, -0.5]
 #Whether Advanced Vampires should spawn with an Age Tier
 advancedVampireAge = true
 #Whether Age Rank affects healing
-ageHealingAffect = false
+ageHealingAffect = true
 #How much each rank multiplies healing, this affects all types of healing 
 ageHealingMultiplier = [1.0, 1.0, 1.0, 1.5, 1.75, 2.0]
 #Whether Age Rank affects how much damage Hunter mobs do
@@ -108,12 +108,12 @@ DBNOTimeMultiplier = [1.0, 1.0, 1.0, 0.8, 0.5, 0.25]
 #How much each rank multiplies the duration of the neonatal effect. Decimal values decrease the time spent in neonatal
 neonatalTimeMultiplier = [1.0, 1.0, 1.0, 1.0, 0.75, 0.5]
 #If enabled, (and the vampire meets the age rank requirement) a vampire will not go down when losing all of its health, it has to die from a deadly source of damage
-shouldOnlyDieFromKillingSources = false
+shouldOnlyDieFromKillingSources = true
 #The age rank at which shouldOnlyDieFromKillingSources activates at
 #Range: 0 ~ 5
 shouldOnlyDieFromKillingSourcesAgeRank = 4
 #If this and should only die from killing sources is enabled, the player will lose some blood when taking damage. If they have no blood left they will no longer be immortal
-immortalityBloodRequirement = false
+immortalityBloodRequirement = true
 #Minimum damage for bloodloss to begin happening with 'immortalBloodLoss' enabled
 #Range: 0 ~ 100
 bloodlossDamageThreshold = 1
