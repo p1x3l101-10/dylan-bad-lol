@@ -1,16 +1,16 @@
 #Whether dying resets Age
 deathReset = true
 #If enabled, ageing will require the player to be of a specified lord level
-lordLevelRequirement = false
+lordLevelRequirement = true
 #If lordLeveLRequirement is enabled, this defines the minimum lord level required to age
 #Range: 1 ~ 5
 lordLevelRankRequirement = 5
 #Intended to be a replacement for other forms of ageing, though will work with them. Overrides the mechanic to always begin at Level 1. Ranks can be gained by drinking blood of more powerful vampires. Highly recommended to turn off Death Reset and to make sure Advanced Vampire Age is turned on. More information on GitHub Readme or Curseforge Page
-sireingMechanic = false
+sireingMechanic = true
 #Whether to use Number of Bites to increase Age. Enable only one option
 infectionBasedIncrease = false
 #Whether to use fully draining villagers of blood to increase Age. Enable only one option
-drainBasedIncrease = true
+drainBasedIncrease = false
 #Whether to use Time Alive  to increase Age. Enable only one option
 timeBasedIncrease = false
 #Whether to use Hunted Entities to increase Age, this is effectively the same as the hunter form of ageing. Enable only one option

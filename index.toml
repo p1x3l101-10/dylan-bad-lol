@@ -1918,7 +1918,7 @@ hash = "0873c63514e8fee342cf8d97606bea453a7b4e9b4a23639dfbf3e62e10aa9b34"
 
 [[files]]
 file = "config/vampiricageing-common.toml"
-hash = "0b315bed051366d47370b7973b7d93cf42ac35a182e5e7c0b95336f16122b312"
+hash = "d64591690cea6b074de4c80e563d44e892ea5f163a8307bcf829aa771234e49e"
 
 [[files]]
 file = "config/vampiricageing-hunterAgeing.toml"
@@ -1926,7 +1926,7 @@ hash = "d3fcd6afb002d673dfd0de48b959d06143a58850939323d5b641bfe78efd73ae"
 
 [[files]]
 file = "config/vampirism-balance.toml"
-hash = "518badebd06dc3b4d389e81e4db583c04072c1d7fffef8ddfcbfea75c538b6fd"
+hash = "d13a4520eab3522c248b4aacb35a16ba1a053e01b4a4fc0884b8317fe000cc27"
 
 [[files]]
 file = "config/vampirism-client-1.toml.bak"
@@ -1954,11 +1954,11 @@ hash = "52ca4624af6b806d00ce76c7a2a63ec8eaa3bb4d54b894f7a06cb0ffb6d1d046"
 
 [[files]]
 file = "config/vampirism-common.toml"
-hash = "8018c6f26ff565e01df27f907ac673bfa1193baa6f515666d9d592dada336181"
+hash = "150b7b95bdb78494b15586520bec2270058c6034f9697c2f1d7fae5456a27cb5"
 
 [[files]]
 file = "config/vampirism-server.toml"
-hash = "e0811ad10e21f5f99105933711571ad26f34199f6d7366659520c5fda8cfeeec"
+hash = "1d4877427dd9b1e720e4383a94235597f6da0ebded8cd9cc420b2baffda4c838"
 
 [[files]]
 file = "config/vampirism_integrations-common.toml"

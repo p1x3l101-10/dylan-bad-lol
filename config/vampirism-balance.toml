@@ -60,7 +60,7 @@
 		sunscreenBuff = false
 		#Multiply fire damage with this for vampires - Changed due to IceAndFire
 		#Range: 0.1 ~ 1.7976931348623157E308
-		fireVulnerabilityMod = 1.5
+		fireVulnerabilityMod = 3.0
 		#Range: > 1
 		sundamageWeaknessMinLevel = 2
 		#Disable vampire night vision

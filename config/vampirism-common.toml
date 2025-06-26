@@ -18,7 +18,7 @@
 	umbrella = false
 	#Enable a custom vampirism log file that logs specific faction actions
 	#Requires restart
-	enableFactionLogging = false
+	enableFactionLogging = true
 
 	#Settings here require a game restart
 	[common-server.world]
