@@ -1,0 +1,13 @@
+name = "Godly Vampirism"
+filename = "GodlyVampirism-1.20.1-1.10.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "386fc8513cdb4834acfeb9fc1cd25aabd54b789d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5096497
+project-id = 441422
