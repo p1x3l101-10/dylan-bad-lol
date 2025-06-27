@@ -550,7 +550,7 @@ hash = "fad7a98652a588362509a9fad1510f983db23d497dda7c35d5159c5f48f70aa3"
 
 [[files]]
 file = "config/avaritia/singularities/osmium.json"
-hash = "55a73468cae22acca5dc5cf8941fdd08269dd376ac38130313730a7ec0b6140b"
+hash = "e83ac312000ae28af6b07732eb453553b769634e65da18ec35cf38ea9340423b"
 
 [[files]]
 file = "config/avaritia/singularities/platinum.json"

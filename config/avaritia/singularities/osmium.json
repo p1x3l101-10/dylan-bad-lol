@@ -17,6 +17,6 @@
   "ingredient": {
     "tag": "forge:ingots/osmium"
   },
-  "enabled": true,
+  "enabled": false,
   "recipeDisabled": false
 }
