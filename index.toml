@@ -3022,11 +3022,6 @@ hash = "de470edc5df0ce0838426f1698de468df768e7e52fef2fd7f999fdf9b13dcf47"
 metafile = true
 
 [[files]]
-file = "mods/universal-wrench.pw.toml"
-hash = "e3ed9c9a82afccb6ad6cd5e269871e220d51c6ff9f322b67761c2f6890413169"
-metafile = true
-
-[[files]]
 file = "mods/vampires-need-umbrellas.pw.toml"
 hash = "7dbcf96055074145dee5398deda1c48ca902302eb773539b33cddf64c442335a"
 metafile = true
@@ -3049,6 +3044,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "b564c1ef122be58225a91dddf95783d67ca6fcce54348f21cc4221e7a03afe1a"
+metafile = true
+
+[[files]]
+file = "mods/werewolves.pw.toml"
+hash = "c05db5c93bc8efae079947e6b3714205c5d64f72cf160eb5aac44db4635b99a8"
 metafile = true
 
 [[files]]
