@@ -2210,7 +2210,7 @@ metafile = true
 
 [[files]]
 file = "mods/caelus.pw.toml"
-hash = "12048ffb14ac41f8bef20fe6d5b55e9ee9ca2962ab5a84c41a24814b26a633f7"
+hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
@@ -2241,6 +2241,11 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "6e86aab91f9ccfc232b58974abe5129fd4d02920a954b6ae1cb7b1414f812021"
+metafile = true
+
+[[files]]
+file = "mods/common-network.pw.toml"
+hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
 metafile = true
 
 [[files]]
@@ -2794,6 +2799,11 @@ hash = "0dcc6ca04d4d908daed7d78c502074ab368439b227800b646c6c694b59c905fb"
 metafile = true
 
 [[files]]
+file = "mods/icarus.pw.toml"
+hash = "1987b94a60f17384091dae4ab4977330d765e6e336c8454d99b11cebc211a7cb"
+metafile = true
+
+[[files]]
 file = "mods/ice-and-fire-dragons.pw.toml"
 hash = "56fc8e52bae2236467e827776173f3d4d819fdfecec27b8d5688f7be5a822170"
 metafile = true
@@ -3061,6 +3071,11 @@ metafile = true
 [[files]]
 file = "mods/re-avaritia.pw.toml"
 hash = "84ad924c5ffa20d1543a2c9b45b390b4380cb2bf2ff707722084f72f0633ea27"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "b85e8417e797be3fdae046c487eeda8f54cdc88f3f20e462e0e229f8dd734214"
 metafile = true
 
 [[files]]
