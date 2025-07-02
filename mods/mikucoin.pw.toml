@@ -1,0 +1,13 @@
+name = "MikuCoin"
+filename = "mikucoin-1.0.0-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/10RxF7vT/versions/GmzYLzX0/mikucoin-1.0.0-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "346b14a9cb5358f8c0fd826a0998de51d8c5b72819ef1cca479ff308fb225f16a53e30399de5bf95c84aa3f48bdcb0a618e292b48376a3bd292f46c09b4bad54"
+
+[update]
+[update.modrinth]
+mod-id = "10RxF7vT"
+version = "GmzYLzX0"
