@@ -1,0 +1,15 @@
+{
+  "name": "Fae Essence",
+  "type": "mysticalagriculture:mob",
+  "ingredient": {
+    "item": "mahoutsukai:fae_essence"
+  },
+  "tier": "mysticalagriculture:5",
+  "color": "fc03ba",
+  "textures": {
+    "flower": "mysticalagriculture:block/flower_dust",
+    "essence": "mysticalagriculture:block/essence_dust",
+    "seeds": "mysticalagriculture:item/mystical_seeds"
+  },
+  "glint": true
+}

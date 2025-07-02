@@ -1481,6 +1481,10 @@ file = "config/mysticalcustomization/configure-types.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
 [[files]]
+file = "config/mysticalcustomization/crops/fae_essence.json"
+hash = "62cd7e66023db29c3c7f4ebfbca9aae69a8b0491c73f0a8c204fa0ea58a2a91b"
+
+[[files]]
 file = "config/nameless_trinkets-base.toml"
 hash = "b8f642088ec1bd81dc9c3c81e0c01a29ac9f21e368cb37cf072ae5510912585e"
 
