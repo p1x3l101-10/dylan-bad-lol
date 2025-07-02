@@ -2949,11 +2949,6 @@ hash = "fe878c20c83e1d4ac34a97c370a50947ed90d765ec005c935925aaded41abe8c"
 metafile = true
 
 [[files]]
-file = "mods/markdownmanual.pw.toml"
-hash = "53f933b0e94a69f06db31f8252e1f18139ba0f9fe530f5fa1400c3102ddd785f"
-metafile = true
-
-[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "f6482009bbefcacf49667df5b128ad025cda09b6dd1510f970eee607a44e7553"
 metafile = true
@@ -3141,21 +3136,6 @@ metafile = true
 [[files]]
 file = "mods/timeless-and-classics-zero.pw.toml"
 hash = "199087fa3afcccbe6f328ee16f58ab0785bcee13291ebc197f3245c440318e08"
-metafile = true
-
-[[files]]
-file = "mods/tis-advanced.pw.toml"
-hash = "44b4f8bf0a8c39fdfa56a03ab8facbbca41bcbfbf5ac96243d1f947d019d3564"
-metafile = true
-
-[[files]]
-file = "mods/tis-create.pw.toml"
-hash = "8543423ae1e94794f4932fecb81e5f0fe5a83c03804c1a0e1ac5eb2abae3567c"
-metafile = true
-
-[[files]]
-file = "mods/tis3d.pw.toml"
-hash = "b8080485701dd5e05abdd1e9a71261f753fafe1121f397876d686286cb0f8f8b"
 metafile = true
 
 [[files]]
