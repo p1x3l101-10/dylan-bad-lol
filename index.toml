@@ -2041,6 +2041,10 @@ file = "kubejs/server_scripts/dragon_blood.js"
 hash = "b383811a52b68be8abab122f30eb7cc288c15139f1fe9ae866815d196393a0a2"
 
 [[files]]
+file = "kubejs/server_scripts/fae_essence_essence.js"
+hash = "72598e2a6506c1e487d239c63cd36193e9f99e8940a81ad11fe2a298867d7208"
+
+[[files]]
 file = "kubejs/server_scripts/mahou_dust_uncraft.js"
 hash = "7f7fdcf7c0843557b82fd6224b110d39f4fe5e152153fc88fac8093cf37cb71f"
 
