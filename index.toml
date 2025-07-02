@@ -2914,6 +2914,11 @@ hash = "3e055c411c197b2103e338dc9fdcd37272df81aaf4246f801694f97feaf7d232"
 metafile = true
 
 [[files]]
+file = "mods/looping-jukebox.pw.toml"
+hash = "511e5a0cb41b0a47b77f33b0cc017286159319e24047193053261ec1a70360ca"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true

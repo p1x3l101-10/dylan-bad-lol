@@ -1,0 +1,13 @@
+name = "Looping Jukebox"
+filename = "looping_jukebox-1.0.0.-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/R3VgMkAe/versions/6HbVrTk3/looping_jukebox-1.0.0.-1.20.1.jar"
+hash-format = "sha512"
+hash = "c99a6a5c6a285cdbdef78adfba2f9eb088534d7c9af40d0ba9544ba531ed632ccb42f9a2533f7e16124768d0243306d22f755625c926d7afe8f3b1877e4cb122"
+
+[update]
+[update.modrinth]
+mod-id = "R3VgMkAe"
+version = "6HbVrTk3"
