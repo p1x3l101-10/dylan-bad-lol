@@ -1,0 +1,13 @@
+name = "Diligent Stalker"
+filename = "diligentstalker-1.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cYG2StiC/versions/o5dQkh4P/diligentstalker-1.0.4.jar"
+hash-format = "sha512"
+hash = "e06ce58004585b0fb9d08d302d6e3d9f85eec823bf72bcdd05d3c41d9cb55e319e7556ad9711789028d494a0b00e590278a14e4a1330e29d9a498e86b27f388d"
+
+[update]
+[update.modrinth]
+mod-id = "cYG2StiC"
+version = "o5dQkh4P"

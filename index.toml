@@ -2632,6 +2632,11 @@ hash = "04982248fbfb09fe69f8075d589bc0bc8fab58bd98e165100f0e9da8045119d8"
 metafile = true
 
 [[files]]
+file = "mods/diligentstalker.pw.toml"
+hash = "e1ed1644c051d0cf0363e248d13c38fa42a34b6d4c91f1a3c5630d510ec5200d"
+metafile = true
+
+[[files]]
 file = "mods/dis-enchanting-table.pw.toml"
 hash = "953519957bb8f2f79304bd5ae7df565498d13a16ee62d7e698bd062d59add283"
 metafile = true
