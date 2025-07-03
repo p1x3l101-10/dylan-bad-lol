@@ -2587,11 +2587,6 @@ hash = "d54e06a9cdff8682cd9c22721e257e0bba53e031307a4a716daa944f29cbba32"
 metafile = true
 
 [[files]]
-file = "mods/create-waystones-recipes.pw.toml"
-hash = "f8169d635b77478755c914f02597a0fb3e5b739c89ad8ddbe8cb3eee8a8d7898"
-metafile = true
-
-[[files]]
 file = "mods/create-weaponry.pw.toml"
 hash = "a01981f38979654decca27a3f81c82420dea60611eac1ff5e328f967af41f1f5"
 metafile = true
